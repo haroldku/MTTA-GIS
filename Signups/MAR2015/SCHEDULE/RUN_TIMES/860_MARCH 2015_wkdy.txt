@@ -1,0 +1,26 @@
+Run Times
+~~~~~~~~~
+
+SignUp:       MARCH 2015
+Service:      1
+Line:         860
+Printed:      02-16-2015  1:52p
+
+Direction:    Clockwise 
+
+Pattern  FrTime  ToTime  Total  DAS BAY 03  Greenwood/Pine NB-NE  Pine/Lewis E-Se  Pine/N Memorial EB  Pine/Garnett  E 21st St S&S Garnett Rd  137th EA/24th S-SW  31st/S 129th EA W-NW  Memorial/32nd S-SW  Memorial/21st N-NE  11th/Sheridan W-NW  11th/Yale  11th/Utica  DAS BAY 03  
+                                      6641                  5537             5548                1944          5616                      5264                5680                  5303                 257                 153                 548        555         575        6641  
+~~~~~~~  ~~~~~~  ~~~~~~  ~~~~~  ~~~~~~~~~~  ~~~~~~~~~~~~~~~~~~~~  ~~~~~~~~~~~~~~~  ~~~~~~~~~~~~~~~~~~  ~~~~~~~~~~~~  ~~~~~~~~~~~~~~~~~~~~~~~~  ~~~~~~~~~~~~~~~~~~  ~~~~~~~~~~~~~~~~~~~~  ~~~~~~~~~~~~~~~~~~  ~~~~~~~~~~~~~~~~~~  ~~~~~~~~~~~~~~~~~~  ~~~~~~~~~  ~~~~~~~~~~  ~~~~~~~~~~  
+
+     01   4:00a   36:00   1h36           -                     7                5                  10             5                        12                   7                     7                   9                   5                   7          6           7           9  
+
+
+Direction:    CounterClock
+
+Pattern  FrTime  ToTime  Total  DAS BAY 05  11th/S Utica E-SE  11YaSB [11th/Yale   11th/Sheridan W-NW  Memorial/21st S-SW  Memorial/32nd S-SW  31st/S 129th E Ave EB  137th EA/24th S-SW  Garnett/E 21 st NB  Garnett/Pine  E Pine St&Memorial  Pine/Lewis W-NW  Pine/Greenwood  DAS BAY 05  
+                                      6643               5124                5132                 548                5791                 257                   5293                5004                5756          5534                3805             1469            5631        6643  
+~~~~~~~  ~~~~~~  ~~~~~~  ~~~~~  ~~~~~~~~~~  ~~~~~~~~~~~~~~~~~  ~~~~~~~~~~~~~~~~~~  ~~~~~~~~~~~~~~~~~~  ~~~~~~~~~~~~~~~~~~  ~~~~~~~~~~~~~~~~~~  ~~~~~~~~~~~~~~~~~~~~~  ~~~~~~~~~~~~~~~~~~  ~~~~~~~~~~~~~~~~~~  ~~~~~~~~~~~~  ~~~~~~~~~~~~~~~~~~  ~~~~~~~~~~~~~~~  ~~~~~~~~~~~~~~  ~~~~~~~~~~  
+
+     01   4:00a   36:00   1h36           -                  7                   6                   7                   6                   4                     10                   4                   8            12                   7               12               5           8  
+
+

@@ -1,0 +1,28 @@
+Run Times
+~~~~~~~~~
+
+SignUp:       MARCH 2015
+Service:      1
+Line:         880
+Printed:      02-16-2015  2:06p
+
+Direction:    From Downtown
+
+Pattern  FrTime  ToTime  Total  DAS BAY 01  11 & Utica  Utica/21st  HARVARD / 31ST  YALE/41  St Francis Hospital  Woodland Hills Mall  
+                                      6639        4156        5863            6719     3194                 1286                  133  
+~~~~~~~  ~~~~~~  ~~~~~~  ~~~~~  ~~~~~~~~~~  ~~~~~~~~~~  ~~~~~~~~~~  ~~~~~~~~~~~~~~  ~~~~~~~  ~~~~~~~~~~~~~~~~~~~  ~~~~~~~~~~~~~~~~~~~  
+
+     01   4:00a   36:00     49           -           8           4               7        7                    9                   14  
+     02  12:00a   36:00     55           -           9           5               8        8                   10                   15  
+
+
+Direction:    To Downtown
+
+Pattern  FrTime  ToTime  Total  Woodland Hills Mall  St Francis Hospital  E 41ST ST S&S YALE AVE  HARVARD / 31ST  21st/Utica  Utica/11th  DAS BAY 01  
+                                                133                 3641                    5407            5959        1490        5123        6639  
+~~~~~~~  ~~~~~~  ~~~~~~  ~~~~~  ~~~~~~~~~~~~~~~~~~~  ~~~~~~~~~~~~~~~~~~~  ~~~~~~~~~~~~~~~~~~~~~~  ~~~~~~~~~~~~~~  ~~~~~~~~~~  ~~~~~~~~~~  ~~~~~~~~~~  
+
+     01   4:00a   36:00     49                    -                   14                       9               7           7           4           8  
+     02  12:00a   36:00     55                    -                   15                      10               8           8           5           9  
+
+

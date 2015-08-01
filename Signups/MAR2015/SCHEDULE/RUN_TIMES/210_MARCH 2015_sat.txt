@@ -1,0 +1,26 @@
+Run Times
+~~~~~~~~~
+
+SignUp:       MARCH 2015
+Service:      2
+Line:         210
+Printed:      02-16-2015 12:12p
+
+Direction:    From Dowtown
+
+Pattern  FrTime  ToTime  Total  DAS BAY 03  2nd and Cincinnati  3/ROCKFORD  E 3rd St S&S Lewis Ave  S Harvard Ave&E 4th St S  Harvard/11th  HARVARD/21ST  Harvard/41st  E 51st St S&S Harvard Ave  St Francis Hospital  S Yale Ave&E 55th Pl S  Sheridan/51st  MMS BAY 04  
+                                      6641                4272        5351                    5347                      5975          6714          1890          5961                       5927                 3641                    5989           5980        6652  
+~~~~~~~  ~~~~~~  ~~~~~~  ~~~~~  ~~~~~~~~~~  ~~~~~~~~~~~~~~~~~~  ~~~~~~~~~~  ~~~~~~~~~~~~~~~~~~~~~~  ~~~~~~~~~~~~~~~~~~~~~~~~  ~~~~~~~~~~~~  ~~~~~~~~~~~~  ~~~~~~~~~~~~  ~~~~~~~~~~~~~~~~~~~~~~~~~  ~~~~~~~~~~~~~~~~~~~  ~~~~~~~~~~~~~~~~~~~~~~  ~~~~~~~~~~~~~  ~~~~~~~~~~  
+
+     01   4:00a   9:00p   1h04           -                   3           2                       1                         4             6             4             8                          3                   10                       2             10          11  
+
+
+Direction:    To Downtown
+
+Pattern  FrTime  ToTime  Total  MMS BAY 04  S Sheridan Rd&E 41st St S  Sheridan/51st  S Yale Ave&E 55th Pl S  St Francis Hospital  Harvard/41st  HARVARD/21ST  Harvard/11th  E 4Th St S&S Harvard Ave  E 3rd St S&S Lewis Ave  3/ROCKFORD  1st and Cincinnati  DAS BAY 03  
+                                      6652                       5981           3299                    5990                 1286          5769          6715          5971                      5420                    5333        5350                4268        6641  
+~~~~~~~  ~~~~~~  ~~~~~~  ~~~~~  ~~~~~~~~~~  ~~~~~~~~~~~~~~~~~~~~~~~~~  ~~~~~~~~~~~~~  ~~~~~~~~~~~~~~~~~~~~~~  ~~~~~~~~~~~~~~~~~~~  ~~~~~~~~~~~~  ~~~~~~~~~~~~  ~~~~~~~~~~~~  ~~~~~~~~~~~~~~~~~~~~~~~~  ~~~~~~~~~~~~~~~~~~~~~~  ~~~~~~~~~~  ~~~~~~~~~~~~~~~~~~  ~~~~~~~~~~  
+
+     01   4:00a   9:00p   1h00           -                          8              3                       6                    4            13             8             4                         4                       4           1                   3           2  
+
+

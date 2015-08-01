@@ -1,0 +1,26 @@
+Run Times
+~~~~~~~~~
+
+SignUp:       MARCH 2015
+Service:      2
+Line:         890
+Printed:      02-16-2015  2:15p
+
+Direction:    To Downtown
+
+Pattern  FrTime  ToTime  Total  Tulsa Hills Shopping Center  S 33rd W Ave & W 61st st S  QUICK TRIP  W 51st S & 33rd W Ave   S Union Ave W & W 49th St S  Southwest Blvd&W 25Th St S/UNNAM  Boulder/5th N-SE  DAS BAY 06  
+                                                       4264                        6512        6584                    6513                         6514                              6024              6245        6644  
+~~~~~~~  ~~~~~~  ~~~~~~  ~~~~~  ~~~~~~~~~~~~~~~~~~~~~~~~~~~  ~~~~~~~~~~~~~~~~~~~~~~~~~~  ~~~~~~~~~~  ~~~~~~~~~~~~~~~~~~~~~~  ~~~~~~~~~~~~~~~~~~~~~~~~~~~  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~  ~~~~~~~~~~~~~~~~  ~~~~~~~~~~  
+
+     01  12:00a   36:00     45                            -                           8           ?                       9                            8                                 8                 9           3  
+
+
+Direction:    From Downtown
+
+Pattern  FrTime  ToTime  Total  DAS BAY 06  E 7Th St S&S Jackson Ave  Southwest Blvd&W 25Th St S/UNNAM  W 49th st S & S Union Ave W  W 51st S & S 33rd W Ave  QUICK TRIP  W 61st S & S 33rd W Ave  Tulsa Hills Shopping Center  
+                                      6644                      6508                              6024                         6509                     6510        6584                     6511                         4264  
+~~~~~~~  ~~~~~~  ~~~~~~  ~~~~~  ~~~~~~~~~~  ~~~~~~~~~~~~~~~~~~~~~~~~  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~  ~~~~~~~~~~~~~~~~~~~~~~~~~~~  ~~~~~~~~~~~~~~~~~~~~~~~  ~~~~~~~~~~  ~~~~~~~~~~~~~~~~~~~~~~~  ~~~~~~~~~~~~~~~~~~~~~~~~~~~  
+
+     01  12:00a   36:00     47           -                         3                                12                            8                        8           ?                        9                            7  
+
+

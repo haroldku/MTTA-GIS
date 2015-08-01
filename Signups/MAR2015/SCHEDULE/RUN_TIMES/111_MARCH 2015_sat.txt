@@ -1,0 +1,26 @@
+Run Times
+~~~~~~~~~
+
+SignUp:       MARCH 2015
+Service:      2
+Line:         111
+Printed:      02-16-2015 10:02a
+
+Direction:    To Downtown
+
+Pattern  FrTime  ToTime  Total  N 123rd E Ave&E Archer St  11th/Garnett  11th/Memorial E-Sw  11th/Yale  11TH AND LEWIS   11th/Peoria  6th/Boston E-SE  DAS BAY 11  
+                                                     5498          5084                5101       5131             5095          579              396        2896  
+~~~~~~~  ~~~~~~  ~~~~~~  ~~~~~  ~~~~~~~~~~~~~~~~~~~~~~~~~  ~~~~~~~~~~~~  ~~~~~~~~~~~~~~~~~~  ~~~~~~~~~  ~~~~~~~~~~~~~~~  ~~~~~~~~~~~  ~~~~~~~~~~~~~~~  ~~~~~~~~~~  
+
+      b   4:00a   8:00p     39                          -             7                   6          7                4            6                6           3  
+
+
+Direction:    From Downtown
+
+Pattern  FrTime  ToTime  Total  DAS BAY 11  6th/Boulder E-SW  11th/Peoria  11TH AND LEWIS   11th/Yale  11th/Memorial E-Sw  11th/Garnett  N 123rd E Ave&E Archer St  
+                                      2896              6392         5109             5096       5132                5102           530                       5498  
+~~~~~~~  ~~~~~~  ~~~~~~  ~~~~~  ~~~~~~~~~~  ~~~~~~~~~~~~~~~~  ~~~~~~~~~~~  ~~~~~~~~~~~~~~~  ~~~~~~~~~  ~~~~~~~~~~~~~~~~~~  ~~~~~~~~~~~~  ~~~~~~~~~~~~~~~~~~~~~~~~~  
+
+      B   4:30a  10:00p     40           -                 3            6                3          7                   7             7                          7  
+
+

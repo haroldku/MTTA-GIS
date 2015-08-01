@@ -1,0 +1,38 @@
+Trips
+~~~~~
+
+SignUp:       MARCH 2015
+Service:      2
+Line:         471
+Exception:    Off
+Printed:      02-16-2015  1:38p
+
+Direction:    Eastbound
+
+Frz  Trip  Pattern  VehType  INT  THillW  71stRivD    71LE  Ya65st  STFRANEB    71Sh  WHMEB471  71MINGO  73 112  Union   
+~~~  ~~~~  ~~~~~~~  ~~~~~~~  ~~~  ~~~~~~  ~~~~~~~~  ~~~~~~  ~~~~~~  ~~~~~~~~  ~~~~~~  ~~~~~~~~  ~~~~~~~  ~~~~~~  ~~~~~~  
+
+ NO     0    02SAT             I   7:00a     7:04a   7:14a   7:20a     7:24a   7:32a     7:39a    7:46a   7:53a          
+ NO     0    02SAT             I   8:40a     8:44a   8:54a   9:00a     9:04a   9:12a     9:19a    9:26a   9:33a          
+ NO     0    02SAT             I  10:20a    10:24a  10:34a  10:40a    10:44a  10:52a    10:59a   11:06a  11:13a          
+ NO     0    01SAT             I  11:30a    11:36a  11:44a  11:52a    11:56a  12:04p    12:14p   12:24p  12:34p          
+ NO     0    01SAT             I  12:45p    12:51p  12:59p   1:07p     1:11p   1:19p     1:29p    1:39p   1:49p          
+ NO     0    01SAT             I   2:00p     2:06p   2:14p   2:22p     2:26p   2:34p     2:44p    2:54p   3:04p          
+ NO     0    01SAT             I   3:15p     3:21p   3:29p   3:37p     3:41p   3:49p     3:59p    4:09p   4:19p          
+ NO     0    01SAT             I   4:20p     4:26p   4:34p   4:42p     4:46p   4:54p     5:04p    5:14p   5:24p          
+
+
+Direction:    Westbound
+
+Frz  Trip  Pattern  VehType  INT  Union   73 112  66 MING  WHMWB471    71Sh  STFRANWB  71LE WB  71stQuin  THillW  
+~~~  ~~~~  ~~~~~~~  ~~~~~~~  ~~~  ~~~~~~  ~~~~~~  ~~~~~~~  ~~~~~~~~  ~~~~~~  ~~~~~~~~  ~~~~~~~  ~~~~~~~~  ~~~~~~  
+
+ NO     0    02SAT             I           7:58a              8:07a   8:14a     8:22a    8:32a     8:36a   8:40a  
+ NO     0    02SAT             I           9:38a              9:47a   9:54a    10:02a   10:12a    10:16a  10:20a  
+ NO     0    01SAT             I          11:30a             11:50a  11:58a    12:06p   12:18p    12:22p  12:30p  
+ NO     0    01SAT             I          12:45p              1:05p   1:13p     1:21p    1:33p     1:37p   1:45p  
+ NO     0    01SAT             I           2:00p              2:20p   2:28p     2:36p    2:48p     2:52p   3:00p  
+ NO     0    01SAT             I           3:15p              3:35p   3:43p     3:51p    4:03p     4:07p   4:15p  
+ NO     0    01SAT             I           4:25p              4:45p   4:53p     5:01p    5:13p     5:17p   5:25p  
+
+

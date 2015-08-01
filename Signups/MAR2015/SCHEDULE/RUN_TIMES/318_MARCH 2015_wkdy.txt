@@ -1,0 +1,28 @@
+Run Times
+~~~~~~~~~
+
+SignUp:       MARCH 2015
+Service:      1
+Line:         318
+Printed:      02-16-2015  1:29p
+
+Direction:    To Midtown
+
+Pattern  FrTime  ToTime  Total  Saint Francis South Hospital   S Memorial Dr&E 81St St S  Woodland Hills Mall  61ST/MEMORIAL  Memorial/51st  S Memorial Dr&E 41st St S  MMS BAY 07  
+                                                         4263                       6106                  133           3175           5979                       5805        6655  
+~~~~~~~  ~~~~~~  ~~~~~~  ~~~~~  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~  ~~~~~~~~~~~~~~~~~~~~~~~~~  ~~~~~~~~~~~~~~~~~~~  ~~~~~~~~~~~~~  ~~~~~~~~~~~~~  ~~~~~~~~~~~~~~~~~~~~~~~~~  ~~~~~~~~~~  
+
+     01  12:00a   36:00     30                              -                          7                    8              5              3                          3           4  
+     02  12:00a   36:00     35                              -                          7                    8              5              3                          3           9  
+
+
+Direction:    From Midtown
+
+Pattern  FrTime  ToTime  Total  MMS BAY 07  S Memorial Dr&E 40th St S  Memorial/51st  61ST/MEMORIAL  NODE 58 WHM FROM MID 318  TCC Southeast  HILLCREST SOUTH  Saint Francis South Hospital   
+                                      6655                       5806            267           6117                      6772           2645             5674                           4263  
+~~~~~~~  ~~~~~~  ~~~~~~  ~~~~~  ~~~~~~~~~~  ~~~~~~~~~~~~~~~~~~~~~~~~~  ~~~~~~~~~~~~~  ~~~~~~~~~~~~~  ~~~~~~~~~~~~~~~~~~~~~~~~  ~~~~~~~~~~~~~  ~~~~~~~~~~~~~~~  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~  
+
+     01  12:00a   36:00     40           -                          3              3              4                         8             12                3                              7  
+     02  12:00a   36:00     47           -                          3              4              4                        10             14                3                              9  
+
+

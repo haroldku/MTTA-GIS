@@ -1,0 +1,55 @@
+Trips
+~~~~~
+
+SignUp:       MARCH 2015
+Service:      1
+Line:         118
+Exception:    Off
+Printed:      02-16-2015 10:59a
+
+Direction:    FROM DOWNTOWN
+
+Frz  Trip  Pattern  VehType  INT   DBAY8  SW25st    5133  QT WEST  61st33rd  T Hill  
+~~~  ~~~~  ~~~~~~~  ~~~~~~~  ~~~  ~~~~~~  ~~~~~~  ~~~~~~  ~~~~~~~  ~~~~~~~~  ~~~~~~  
+
+ NO     0        A             I   5:00a   5:11a   5:20a    5:26a     5:29a   5:40a  
+ NO     0        A             I   5:45a   5:56a   6:05a    6:11a     6:14a   6:25a  
+ NO     0        A             I   6:30a   6:41a   6:50a    6:56a     6:59a   7:10a  
+ NO     0        A             I   7:15a   7:26a   7:35a    7:41a     7:44a   7:55a  
+ NO     0        A             I   8:00a   8:11a   8:20a    8:26a     8:29a   8:40a  
+ NO     0        A             I   8:45a   8:56a   9:05a    9:11a     9:14a   9:25a  
+ NO     0        A             I   9:30a   9:41a   9:50a    9:56a     9:59a  10:10a  
+ NO     0        A             I  11:00a  11:11a  11:20a   11:26a    11:29a  11:40a  
+ NO     0        A             I  12:30p  12:41p  12:50p   12:56p    12:59p   1:10p  
+ NO     0        A             I   2:00p   2:11p   2:20p    2:26p     2:29p   2:40p  
+ NO     0        A             I   2:45p   2:56p   3:05p    3:11p     3:14p   3:25p  
+ NO     0        A             I   3:30p   3:41p   3:50p    3:56p     3:59p   4:10p  
+ NO     0        A             I   4:15p   4:26p   4:35p    4:41p     4:44p   4:55p  
+ NO     0        A             I   5:00p   5:11p   5:20p    5:26p     5:29p   5:40p  
+ NO     0        A             I   5:45p   5:56p   6:05p    6:11p     6:14p   6:25p  
+ NO     0        A             I   6:30p   6:41p   6:50p    6:56p     6:59p   7:10p  
+ NO     0        A             I   7:15p   7:26p   7:35p    7:41p     7:44p   7:55p  
+
+
+Direction:    TO DOWNTOWN
+
+Frz  Trip  Pattern  VehType  INT  T Hill  33av61st   QT 49  51st33av    25SW   DBAY8  
+~~~  ~~~~  ~~~~~~~  ~~~~~~~  ~~~  ~~~~~~  ~~~~~~~~  ~~~~~~  ~~~~~~~~  ~~~~~~  ~~~~~~  
+
+ NO     0        A             I   5:48a     5:56a   5:59a     6:05a   6:14a   6:25a  
+ NO     0        A             I   6:33a     6:41a   6:44a     6:50a   6:59a   7:10a  
+ NO     0        A             I   7:18a     7:26a   7:29a     7:35a   7:44a   7:55a  
+ NO     0        A             I   8:03a     8:11a   8:14a     8:20a   8:29a   8:40a  
+ NO     0        A             I   8:48a     8:56a   8:59a     9:05a   9:14a   9:25a  
+ NO     0        A             I   9:33a     9:41a   9:44a     9:50a   9:59a  10:10a  
+ NO     0        A             I  10:18a    10:26a  10:29a    10:35a  10:44a  10:55a  
+ NO     0        A             I  11:48a    11:56a  11:59a    12:05p  12:14p  12:25p  
+ NO     0        A             I   1:18p     1:26p   1:29p     1:35p   1:44p   1:55p  
+ NO     0        A             I   2:48p     2:56p   2:59p     3:05p   3:14p   3:25p  
+ NO     0        A             I   3:33p     3:41p   3:44p     3:50p   3:59p   4:10p  
+ NO     0        A             I   4:18p     4:26p   4:29p     4:35p   4:44p   4:55p  
+ NO     0        A             I   5:03p     5:11p   5:14p     5:20p   5:29p   5:40p  
+ NO     0        A             I   5:48p     5:56p   5:59p     6:05p   6:14p   6:25p  
+ NO     0        A             I   6:25p     6:33p   6:36p     6:42p   6:51p   7:02p  
+
+

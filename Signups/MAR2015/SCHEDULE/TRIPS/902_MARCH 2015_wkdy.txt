@@ -1,0 +1,27 @@
+Trips
+~~~~~
+
+SignUp:       MARCH 2015
+Service:      1
+Line:         902
+Exception:    Off
+Printed:      02-16-2015  2:17p
+
+Direction:    To Downtown
+
+Frz  Trip  Pattern  VehType  INT  Ind Spr   Union   Ba  145  MMS 10     Bo7   1/Cin     1Ma     Ch5    Ma10    15Bu  
+~~~  ~~~~  ~~~~~~~  ~~~~~~~  ~~~  ~~~~~~~~  ~~~~~~  ~~~~~~~  ~~~~~~  ~~~~~~  ~~~~~~  ~~~~~~  ~~~~~~  ~~~~~~  ~~~~~~  
+
+ NO     0       03             I     6:20a            6:35a           6:58a   6:59a   7:04a   7:07a   7:10a   7:13a  
+ NO     0       02             I                      7:55a           8:18a   8:19a   8:24a   8:27a   8:30a   8:33a  
+
+
+Direction:    From Downtown
+
+Frz  Trip  Pattern  VehType  INT    15Bu     Bo7   1/Cin     1Ma     Ch5    Ma10  MMS 10  Ba  145  Union   Ind Spr   
+~~~  ~~~~  ~~~~~~~  ~~~~~~~  ~~~  ~~~~~~  ~~~~~~  ~~~~~~  ~~~~~~  ~~~~~~  ~~~~~~  ~~~~~~  ~~~~~~~  ~~~~~~  ~~~~~~~~  
+
+ NO     0       02             I   4:06p   4:12p   4:14p   4:17p   4:22p   4:27p            4:45p                    
+ NO     0       03             I   5:12p   5:18p   5:20p   5:23p   5:28p   5:33p            5:43p             6:03p  
+
+

@@ -1,0 +1,27 @@
+Trips
+~~~~~
+
+SignUp:       MARCH 2015
+Service:      1
+Line:         880
+Exception:    Off
+Printed:      02-16-2015  2:05p
+
+Direction:    From Downtown
+
+Frz  Trip  Pattern  VehType  INT   DBAY1   11Uti    Ut21    Ha31    Ya41    StFr     WHM  
+~~~  ~~~~  ~~~~~~~  ~~~~~~~  ~~~  ~~~~~~  ~~~~~~  ~~~~~~  ~~~~~~  ~~~~~~  ~~~~~~  ~~~~~~  
+
+ NO     0       02             I   8:00p   8:09p   8:14p   8:22p   8:30p   8:40p   8:55p  
+ NO     0       01             I  10:20p  10:28p  10:32p  10:39p  10:46p  10:55p  11:09p  
+
+
+Direction:    To Downtown
+
+Frz  Trip  Pattern  VehType  INT     WHM    StFr  41stYa    Ha31    21Ut    Ut11   DBAY1  
+~~~  ~~~~  ~~~~~~~  ~~~~~~~  ~~~  ~~~~~~  ~~~~~~  ~~~~~~  ~~~~~~  ~~~~~~  ~~~~~~  ~~~~~~  
+
+ NO     0       02             I   9:09p   9:24p   9:34p   9:42p   9:50p   9:55p  10:04p  
+ NO     0       01             I  11:09p  11:23p  11:32p  11:39p  11:46p  11:50p  11:58p  
+
+

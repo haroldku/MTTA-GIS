@@ -1,0 +1,30 @@
+Run Times
+~~~~~~~~~
+
+SignUp:       MARCH 2015
+Service:      1
+Line:         114
+Printed:      02-16-2015 10:46a
+
+Direction:    To Downtown
+
+Pattern  FrTime  ToTime  Total  Walmart Sand Springs   2nd/Adams  65th W/Chas Page  Warehouse/49  Gilcrease/Chas Page  Gilcrease Estates   Gilcrease Museum  N. COUNTRY CLUB DR & W JASPER ST  DAS BAY 05  
+                                                 4245       6618              5684          3224                 3238                4254              4255                              5611        6643  
+~~~~~~~  ~~~~~~  ~~~~~~  ~~~~~  ~~~~~~~~~~~~~~~~~~~~~  ~~~~~~~~~  ~~~~~~~~~~~~~~~~  ~~~~~~~~~~~~  ~~~~~~~~~~~~~~~~~~~  ~~~~~~~~~~~~~~~~~~  ~~~~~~~~~~~~~~~~  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~  ~~~~~~~~~~  
+
+     01  12:00a   36:00     58                      -         11                 6             7                    8                   5                 3                                10           8  
+     02  12:00a   36:00     53                      -         11                 7             7                    8                                                                      11           9  
+     03  12:00a   36:00     55                      -         11                 7             7                    8                   4                                                   9           9  
+
+
+Direction:    From Downtown
+
+Pattern  FrTime  ToTime  Total  DAS BAY 05  Jasper/Country ClubDr  Gilcrease Estates   Gilcrease Museum  Gilcrease/Chas Page  Warehouse/49  65th W/Chas Page  2nd/Adams  Walmart Sand Springs   
+                                      6643                   4116                4254              4255                 5009          3224              3239       6619                   4245  
+~~~~~~~  ~~~~~~  ~~~~~~  ~~~~~  ~~~~~~~~~~  ~~~~~~~~~~~~~~~~~~~~~  ~~~~~~~~~~~~~~~~~~  ~~~~~~~~~~~~~~~~  ~~~~~~~~~~~~~~~~~~~  ~~~~~~~~~~~~  ~~~~~~~~~~~~~~~~  ~~~~~~~~~  ~~~~~~~~~~~~~~~~~~~~~  
+
+     01  12:00a   36:00     56           -                     12                                                         10             8                 6          8                     12  
+     02  12:00a   36:00     54           -                     12                                                         10             8                 6          7                     11  
+     03  12:00a   36:00     57           -                     12                  10                                      2             8                 7          7                     11  
+
+

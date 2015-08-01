@@ -1,0 +1,2 @@
+Some field names where too long and replaced as follows:
+ tpField00 for DestinationSign, tpField01 for UserDouble1, tpField02 for UserDouble2, tpField03 for UserString1, tpField04 for UserString2, tpField05 for UserString3, tpField06 for UserString4, tpField07 for UserLongString1, tpField08 for UserBigString1

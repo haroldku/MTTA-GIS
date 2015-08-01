@@ -1,0 +1,37 @@
+Run Times
+~~~~~~~~~
+
+SignUp:       MARCH 2015
+Service:      1
+Line:         105
+Printed:      02-16-2015  9:54a
+
+Direction:    Northbound
+
+Pattern  FrTime  ToTime  Total  Wal-Mart/81st  Inholf Plaza  S Peoria Ave&E Skelly Dr  Peoria/41st  Peoria/11th  FLAG 72 PEORIA & 5TH   1st and Cincinati Ave  ARRIVE DAS BAY 2  DAS BAY 2  2nd and Cincinnati  Pe/Virgin  OU CLINIC   Peoria/46th N  E 65th St N&N Quaker Ave  
+                                          276           287                      6057          304          320                   6807                   4271              6765       6640                4272        343        6763           4085                      6502  
+~~~~~~~  ~~~~~~  ~~~~~~  ~~~~~  ~~~~~~~~~~~~~  ~~~~~~~~~~~~  ~~~~~~~~~~~~~~~~~~~~~~~~  ~~~~~~~~~~~  ~~~~~~~~~~~  ~~~~~~~~~~~~~~~~~~~~~  ~~~~~~~~~~~~~~~~~~~~~  ~~~~~~~~~~~~~~~~  ~~~~~~~~~  ~~~~~~~~~~~~~~~~~~  ~~~~~~~~~  ~~~~~~~~~~  ~~~~~~~~~~~~~  ~~~~~~~~~~~~~~~~~~~~~~~~  
+
+     01   4:00a   36:00   1h11              -            10                         7            6           10                      3                      6                 1          5                   2          9           4              4                         4  
+     02   4:00a   36:00   1h17              -            10                         7            6           10                      3                      6                 2          5                   2         10           5              5                         6  
+     03  12:00a   36:00   1h08              -             9                         9            3            9                      2                      6                 2          5                   2          9           4              4                         4  
+     pi   4:30a  10:00p     38              -             9                         9            3            9                      3                      3                 2                                                                                                 
+     Po   4:00a   36:00     14                                                                                                                                                           -                   2                                                                  
+    po2   4:00a   36:00     10                                                                                                                                                           -                   2                                                                  
+    PO3  12:00a   36:00     14                                                                                                                                                           -                   2                                                                  
+
+
+Direction:    Southbound
+
+Pattern  FrTime  ToTime  Total  E 65th St N&N Quaker Ave  Peoria/46th N  NODE 54 OU WAYMAN TISDALE CLINIC  Pe/Virgin  1st and Cincinati Ave  ARRIVE DAS BAY 10  DAS BAY 10  2nd and Cincinnati  NODE 73 PEORIA & 6TH   Peoria/11th  Peoria/41st  S Peoria Ave&E Skelly Dr  INHOFE PLAZA SOUTHBOUND  Wal-Mart/81st  
+                                                    6502           6007                              6768       6496                   4271               6762        6648                4272                   6808          406         6066                      6035                     6394            276  
+~~~~~~~  ~~~~~~  ~~~~~~  ~~~~~  ~~~~~~~~~~~~~~~~~~~~~~~~  ~~~~~~~~~~~~~  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~  ~~~~~~~~~  ~~~~~~~~~~~~~~~~~~~~~  ~~~~~~~~~~~~~~~~~  ~~~~~~~~~~  ~~~~~~~~~~~~~~~~~~  ~~~~~~~~~~~~~~~~~~~~~  ~~~~~~~~~~~  ~~~~~~~~~~~  ~~~~~~~~~~~~~~~~~~~~~~~~  ~~~~~~~~~~~~~~~~~~~~~~~  ~~~~~~~~~~~~~  
+
+     01   4:00a   36:00   1h18                         -              7                                 5          8                      7                  3           5                   2                      3            5            6                         5                       11             11  
+     02   4:00a   36:00   1h27                         -              7                                 6          9                     10                  3           5                   2                      3            5           10                         5                       11             11  
+     03  12:00a   36:00   1h18                         -              6                                 4          7                      6                  2           3                   2                                   6            9                         3                       17             13  
+     Pi   4:00a   9:00p     28                         -              6                                 4          8                      8                  2                                                                                                                                                     
+     PO   4:00a   9:00p     39                                                                                                                                           -                   3                      3            3            9                         3                        8             10  
+    PO3  12:00a   36:00     53                                                                                                                                           -                   3                      3            3            9                         3                       17             15  
+
+

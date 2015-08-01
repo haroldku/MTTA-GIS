@@ -1,0 +1,27 @@
+Trips
+~~~~~
+
+SignUp:       MARCH 2015
+Service:      1
+Line:         860
+Exception:    Off
+Printed:      02-16-2015  1:51p
+
+Direction:    Clockwise 
+
+Frz  Trip  Pattern  VehType  INT   DBAY3  GrPiNB  PiLeEB  Pine/Mem    PiGa  21stGntt  137/24S  31/129   Me32S   Me21N  11/SherW    11Ya    11Ut   DBAY3  
+~~~  ~~~~  ~~~~~~~  ~~~~~~~  ~~~  ~~~~~~  ~~~~~~  ~~~~~~  ~~~~~~~~  ~~~~~~  ~~~~~~~~  ~~~~~~~  ~~~~~~  ~~~~~~  ~~~~~~  ~~~~~~~~  ~~~~~~  ~~~~~~  ~~~~~~  
+
+ NO     0       01             I   8:30p   8:37p   8:42p     8:52p   8:57p     9:09p    9:16p   9:23p   9:32p   9:37p     9:44p   9:50p   9:57p  10:06p  
+ NO     0       01             I  10:30p  10:37p  10:42p    10:52p  10:57p    11:09p   11:16p  11:23p  11:32p  11:37p    11:44p  11:50p  11:57p  12:06x  
+
+
+Direction:    CounterClock
+
+Frz  Trip  Pattern  VehType  INT   DBAY5   11UtE  11YaSB  11/SherW   Me21S   Me32S  31/129-E  137/24S  Garn/21    GaPi   PiMeW  PiLeWB    PiGr   DBAY5  
+~~~  ~~~~  ~~~~~~~  ~~~~~~~  ~~~  ~~~~~~  ~~~~~~  ~~~~~~  ~~~~~~~~  ~~~~~~  ~~~~~~  ~~~~~~~~  ~~~~~~~  ~~~~~~~  ~~~~~~  ~~~~~~  ~~~~~~  ~~~~~~  ~~~~~~  
+
+ NO     0       01             I   8:30p   8:37p   8:43p     8:50p   8:56p   9:00p     9:10p    9:14p    9:22p   9:34p   9:41p   9:53p   9:58p  10:06p  
+ NO     0       01             I  10:20p  10:27p  10:33p    10:40p  10:46p  10:50p    11:00p   11:04p   11:12p  11:24p  11:31p  11:43p  11:48p  11:56p  
+
+

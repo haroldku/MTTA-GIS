@@ -1,0 +1,28 @@
+Run Times
+~~~~~~~~~
+
+SignUp:       MARCH 2015
+Service:      2
+Line:         870
+Printed:      02-16-2015  2:01p
+
+Direction:    From Downtown
+
+Pattern  FrTime  ToTime  Total  DAS BAY 2  Boulder/21st S-SW  21st/Utica  Peoria/41st  Inholf Plaza  Tulsa Hills Shopping Center  81ST/LEWIS  St Francis Hospital  
+                                     6640               3250        1322         6066          2757                         4264        6337                 3641  
+~~~~~~~  ~~~~~~  ~~~~~~  ~~~~~  ~~~~~~~~~  ~~~~~~~~~~~~~~~~~  ~~~~~~~~~~  ~~~~~~~~~~~  ~~~~~~~~~~~~  ~~~~~~~~~~~~~~~~~~~~~~~~~~~  ~~~~~~~~~~  ~~~~~~~~~~~~~~~~~~~  
+
+     01   4:00a   36:00     58          -                  8           5            7            12                                       11                   15  
+     02  12:00a   36:00   1h15          -                  8           5            7            13                           14          14                   14  
+
+
+Direction:    To Downtown
+
+Pattern  FrTime  ToTime  Total  St Francis Hospital  81ST/LEWIS  Tulsa Hills Shopping Center  Inholf Plaza  Peoria/41st  Utica/21st  21st/Boulder  DAS BAY 2  
+                                               1286        6337                         4264          2757          426        1601          3282       6640  
+~~~~~~~  ~~~~~~  ~~~~~~  ~~~~~  ~~~~~~~~~~~~~~~~~~~  ~~~~~~~~~~  ~~~~~~~~~~~~~~~~~~~~~~~~~~~  ~~~~~~~~~~~~  ~~~~~~~~~~~  ~~~~~~~~~~  ~~~~~~~~~~~~  ~~~~~~~~~  
+
+     01   4:00a   36:00     58                    -          15                                         11           12           7             5          8  
+     02  12:00a   36:00   1h13                    -          15                           16             9           13           7             5          8  
+
+

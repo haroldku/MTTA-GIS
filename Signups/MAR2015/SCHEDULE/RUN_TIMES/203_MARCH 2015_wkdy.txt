@@ -1,0 +1,26 @@
+Run Times
+~~~~~~~~~
+
+SignUp:       MARCH 2015
+Service:      1
+Line:         203
+Printed:      02-16-2015 11:10a
+
+Direction:    To Downtown
+
+Pattern  FrTime  ToTime  Total  MMS BAY 06  MEMORIAL/15TH  Memorial/Admiral  AIRPORT  Yale/Apache  TCC NE FROM DOWTOWN   Apache/Lewis  Virgin/Madison  Pine/Greenwood  N Greenwood Ave&OSU  1st and Cincinati Ave  DAS BAY 01  
+                                      6654           5784              1655     5888         3130                   795          5489            5576            5631                 5634                   4271        6639  
+~~~~~~~  ~~~~~~  ~~~~~~  ~~~~~  ~~~~~~~~~~  ~~~~~~~~~~~~~  ~~~~~~~~~~~~~~~~  ~~~~~~~  ~~~~~~~~~~~  ~~~~~~~~~~~~~~~~~~~~  ~~~~~~~~~~~~  ~~~~~~~~~~~~~~  ~~~~~~~~~~~~~~  ~~~~~~~~~~~~~~~~~~~  ~~~~~~~~~~~~~~~~~~~~~  ~~~~~~~~~~  
+
+     11   4:00a   9:00p   1h00           -              7                 5       12            6                     5             5               6               5                    2                      5           2  
+
+
+Direction:    From Downtown
+
+Pattern  FrTime  ToTime  Total  DAS BAY 01  2nd and Cincinnati  N Greenwood Ave&OSU  Greenwood/Pine  Virgin/Madison  Apache/Lewis  TCC NE FROM DOWTOWN   Yale/Apache  NODE 55 AIRPORT   Memorial/Admiral  MEMORIAL/15TH  MMS BAY 06  
+                                      6639                4272                 5633            5632            5577           791                  5883         5496              6769              6704           6707        6654  
+~~~~~~~  ~~~~~~  ~~~~~~  ~~~~~  ~~~~~~~~~~  ~~~~~~~~~~~~~~~~~~  ~~~~~~~~~~~~~~~~~~~  ~~~~~~~~~~~~~~  ~~~~~~~~~~~~~~  ~~~~~~~~~~~~  ~~~~~~~~~~~~~~~~~~~~  ~~~~~~~~~~~  ~~~~~~~~~~~~~~~~  ~~~~~~~~~~~~~~~~  ~~~~~~~~~~~~~  ~~~~~~~~~~  
+
+     11   4:00a   9:00p   1h05           -                   3                    3               3               5             6                     5            5                 8                15              4           8  
+
+

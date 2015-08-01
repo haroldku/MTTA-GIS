@@ -1,0 +1,55 @@
+Stop Trips
+~~~~~~~~~~
+
+SignUp:       MARCH 2015
+Service:      2
+Line:         251
+Exception:    Off
+Printed:      02-16-2015  1:23p
+
+Direction:    To Downtown
+
+Pattern  INT  VAL    MMS1   DBAY2  
+                     6649    6640  
+~~~~~~~  ~~~  ~~~  ~~~~~~  ~~~~~~  
+
+     01    I    V   7:35a   7:55a  
+     01    I    V   8:20a   8:40a  
+     01    I    V   9:05a   9:25a  
+     01    I    V   9:50a  10:10a  
+     01    I    V  10:35a  10:55a  
+     01    I    V  11:20a  11:40a  
+     01    I    V  12:05p  12:25p  
+     01    I    V  12:50p   1:10p  
+     01    I    V   1:35p   1:55p  
+     01    I    V   2:20p   2:40p  
+     01    I    V   3:05p   3:25p  
+     01    I    V   3:50p   4:10p  
+     01    I    V   4:35p   4:55p  
+     01    I    V   5:20p   5:40p  
+     01    I    V   6:10p   6:30p  
+
+
+Direction:    From Downtown
+
+Pattern  INT  VAL   DBAY2    MMS1  
+                     6640    6649  
+~~~~~~~  ~~~  ~~~  ~~~~~~  ~~~~~~  
+
+     01    I    V   7:15a   7:35a  
+     01    I    V   8:00a   8:20a  
+     01    I    V   8:45a   9:05a  
+     01    I    V   9:30a   9:50a  
+     01    I    V  10:15a  10:35a  
+     01    I    V  11:00a  11:20a  
+     01    I    V  11:45a  12:05p  
+     01    I    V  12:30p  12:50p  
+     01    I    V   1:15p   1:35p  
+     01    I    V   2:00p   2:20p  
+     01    I    V   2:45p   3:05p  
+     01    I    V   3:30p   3:50p  
+     01    I    V   4:15p   4:35p  
+     01    I    V   5:00p   5:20p  
+     01    I    V   5:45p   6:05p  
+
+

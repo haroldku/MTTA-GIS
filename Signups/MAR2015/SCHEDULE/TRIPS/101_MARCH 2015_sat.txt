@@ -1,0 +1,55 @@
+Trips
+~~~~~
+
+SignUp:       MARCH 2015
+Service:      2
+Line:         101
+Exception:    Off
+Printed:      02-16-2015  9:49a
+
+Direction:    From Downtown
+
+Frz  Trip  Pattern  VehType  INT   DBAY5    PiCi    Gr27  WeVi   Osage    De49    Ha56    Ci61  
+~~~  ~~~~  ~~~~~~~  ~~~~~~~  ~~~  ~~~~~~  ~~~~~~  ~~~~~~  ~~~~  ~~~~~~  ~~~~~~  ~~~~~~  ~~~~~~  
+
+ NO     0     sat1             I   6:45a   6:56a   7:01a         7:11a   7:20a           7:30a  
+ NO     0     sat2             I   7:30a   7:41a   7:46a         7:56a           8:05a   8:15a  
+ NO     0     sat1             I   8:15a   8:26a   8:31a         8:41a   8:50a           9:00a  
+ NO     0     sat2             I   9:00a   9:11a   9:16a         9:26a           9:35a   9:45a  
+ NO     0     sat1             I   9:45a   9:56a  10:01a        10:11a  10:20a          10:30a  
+ NO     0     sat2             I  10:30a  10:41a  10:46a        10:56a          11:05a  11:15a  
+ NO     0     sat1             I  11:15a  11:26a  11:31a        11:41a  11:50a          12:00p  
+ NO     0     sat2             I  12:00p  12:11p  12:16p        12:26p          12:35p  12:45p  
+ NO     0     sat1             I  12:45p  12:56p   1:01p         1:11p   1:20p           1:30p  
+ NO     0     sat2             I   1:30p   1:41p   1:46p         1:56p           2:05p   2:15p  
+ NO     0     sat1             I   2:15p   2:26p   2:31p         2:41p   2:50p           3:00p  
+ NO     0     sat2             I   3:00p   3:11p   3:16p         3:26p           3:35p   3:45p  
+ NO     0     sat1             I   3:45p   3:56p   4:01p         4:11p   4:20p           4:30p  
+ NO     0     sat2             I   4:30p   4:41p   4:46p         4:56p           5:05p   5:15p  
+ NO     0     sat1             I   5:15p   5:26p   5:31p         5:41p   5:50p           6:00p  
+ NO     0     sat2             I   6:15p   6:26p   6:31p         6:41p           6:50p   7:00p  
+
+
+Direction:    To Downtown
+
+Frz  Trip  Pattern  VehType  INT    Ci61  56HartEB    49De  WESTVIEW   Osage    Ga27    PiCi   DBAY5  
+~~~  ~~~~  ~~~~~~~  ~~~~~~~  ~~~  ~~~~~~  ~~~~~~~~  ~~~~~~  ~~~~~~~~  ~~~~~~  ~~~~~~  ~~~~~~  ~~~~~~  
+
+ NO     0       02             I   6:47a             6:54a             7:04a   7:10a   7:15a   7:25a  
+ NO     0       01             I   7:32a     7:37a                     7:49a   7:55a   8:00a   8:10a  
+ NO     0       02             I   8:17a             8:24a             8:34a   8:40a   8:45a   8:55a  
+ NO     0       01             I   9:02a     9:07a                     9:19a   9:25a   9:30a   9:40a  
+ NO     0       02             I   9:47a             9:54a            10:04a  10:10a  10:15a  10:25a  
+ NO     0       01             I  10:32a    10:37a                    10:49a  10:55a  11:00a  11:10a  
+ NO     0       02             I  11:17a            11:24a            11:34a  11:40a  11:45a  11:55a  
+ NO     0       01             I  12:02p    12:07p                    12:19p  12:25p  12:30p  12:40p  
+ NO     0       02             I  12:47p            12:54p             1:04p   1:10p   1:15p   1:25p  
+ NO     0       01             I   1:32p     1:37p                     1:49p   1:55p   2:00p   2:10p  
+ NO     0       02             I   2:17p             2:24p             2:34p   2:40p   2:45p   2:55p  
+ NO     0       01             I   3:02p     3:07p                     3:19p   3:25p   3:30p   3:40p  
+ NO     0       02             I   3:47p             3:54p             4:04p   4:10p   4:15p   4:25p  
+ NO     0       01             I   4:32p     4:37p                     4:49p   4:55p   5:00p   5:10p  
+ NO     0       02             I   5:17p             5:24p             5:34p   5:40p   5:45p   5:55p  
+ NO     0       01             I   6:02p     6:07p                     6:19p   6:25p   6:30p   6:40p  
+
+

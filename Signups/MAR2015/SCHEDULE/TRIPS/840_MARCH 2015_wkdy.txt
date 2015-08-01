@@ -1,0 +1,27 @@
+Trips
+~~~~~
+
+SignUp:       MARCH 2015
+Service:      1
+Line:         840
+Exception:    Off
+Printed:      02-16-2015  1:45p
+
+Direction:    From Downtown
+
+Frz  Trip  Pattern  VehType  INT   DBAY4    OsFa    ViRo  TCC NE  36NLEW  36NPEO   Osage    56Ht  
+~~~  ~~~~  ~~~~~~~  ~~~~~~~  ~~~  ~~~~~~  ~~~~~~  ~~~~~~  ~~~~~~  ~~~~~~  ~~~~~~  ~~~~~~  ~~~~~~  
+
+ NO     0       01             I   8:00p   8:10p   8:25p   8:33p   8:41p   8:45p   8:51p   9:06p  
+ NO     0       01             I  10:30p  10:40p  10:55p  11:03p  11:11p  11:15p  11:21p  11:36p  
+
+
+Direction:    To Downtown
+
+Frz  Trip  Pattern  VehType  INT  56HartEB  FLAG 53   36NPe   Le36N  TCC NE    ViRo    OsFa   DBAY4  
+~~~  ~~~~  ~~~~~~~  ~~~~~~~  ~~~  ~~~~~~~~  ~~~~~~~  ~~~~~~  ~~~~~~  ~~~~~~  ~~~~~~  ~~~~~~  ~~~~~~  
+
+ NO     0       01             I     9:09p    9:24p   9:30p   9:34p   9:42p   9:50p  10:05p  10:15p  
+ NO     0       01             I    11:36p   11:51p  11:57p  12:01x  12:09x  12:17x  12:32x  12:42x  
+
+

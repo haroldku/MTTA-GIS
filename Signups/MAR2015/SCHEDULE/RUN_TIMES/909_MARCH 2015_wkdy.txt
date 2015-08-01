@@ -1,0 +1,26 @@
+Run Times
+~~~~~~~~~
+
+SignUp:       MARCH 2015
+Service:      1
+Line:         909
+Printed:      02-16-2015  2:21p
+
+Direction:    To Downtown
+
+Pattern  FrTime  ToTime  Total  Union Inter High  Battle Creek/145th  Boston/7th  1st/Main  Cheyenne/5th  10th/Main  15th & Boulder   
+                                            4120                2454        2456      2457          3732       2713             1033  
+~~~~~~~  ~~~~~~  ~~~~~~  ~~~~~  ~~~~~~~~~~~~~~~~  ~~~~~~~~~~~~~~~~~~  ~~~~~~~~~~  ~~~~~~~~  ~~~~~~~~~~~~  ~~~~~~~~~  ~~~~~~~~~~~~~~~  
+
+     02   4:00a   36:00     47                 -                  16          16         6             3          3                3  
+
+
+Direction:    From Downtown
+
+Pattern  FrTime  ToTime  Total  15th & Boulder   Boston/7th  1st/Main  Cheyenne/5th  Main/10th  Union Inter High  Battle Creek/145th  Indian Springs Baptist Church  
+                                           1033        2456      2457          3732       2458              4120                2454                           4137  
+~~~~~~~  ~~~~~~  ~~~~~~  ~~~~~  ~~~~~~~~~~~~~~~  ~~~~~~~~~~  ~~~~~~~~  ~~~~~~~~~~~~  ~~~~~~~~~  ~~~~~~~~~~~~~~~~  ~~~~~~~~~~~~~~~~~~  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~  
+
+     03   4:00a   36:00     58                -           6         6             3          3                23                  17                                 
+
+

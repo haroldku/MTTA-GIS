@@ -1,0 +1,38 @@
+Trips
+~~~~~
+
+SignUp:       MARCH 2015
+Service:      2
+Line:         318
+Exception:    Off
+Printed:      02-16-2015  1:33p
+
+Direction:    To Midtown
+
+Frz  Trip  Pattern  VehType  INT  STFR SOU  Mem81st     WHM  61  MENE    Me51  Mem41st  MMS 07  
+~~~  ~~~~  ~~~~~~~  ~~~~~~~  ~~~  ~~~~~~~~  ~~~~~~~  ~~~~~~  ~~~~~~~~  ~~~~~~  ~~~~~~~  ~~~~~~  
+
+ NO     0       01             I     7:00a    7:07a   7:18a     7:23a   7:28a    7:31a   7:35a  
+ NO     0       01             I     8:27a    8:34a   8:45a     8:50a   8:55a    8:58a   9:02a  
+ NO     0       01             I     9:57a   10:04a  10:15a    10:20a  10:25a   10:28a  10:32a  
+ NO     0       01             I    11:27a   11:34a  11:45a    11:50a  11:55a   11:58a  12:02p  
+ NO     0       01             I    12:57p    1:04p   1:15p     1:20p   1:25p    1:28p   1:32p  
+ NO     0       01             I     2:27p    2:34p   2:45p     2:50p   2:55p    2:58p   3:02p  
+ NO     0       01             I     3:57p    4:04p   4:15p     4:20p   4:25p    4:28p   4:32p  
+ NO     0       01             I     5:27p    5:34p   5:45p     5:50p   5:55p    5:58p   6:02p  
+
+
+Direction:    From Midtown
+
+Frz  Trip  Pattern  VehType  INT  MMS 07  Mem40st    Me51  ME 61SW  WHMFM318  TCC  SE  HL CRSTS  STFR SOU  
+~~~  ~~~~  ~~~~~~~  ~~~~~~~  ~~~  ~~~~~~  ~~~~~~~  ~~~~~~  ~~~~~~~  ~~~~~~~~  ~~~~~~~  ~~~~~~~~  ~~~~~~~~  
+
+ NO     0       01             I   7:41a    7:44a   7:47a    7:51a     7:59a    8:11a     8:14a     8:21a  
+ NO     0       01             I   9:11a    9:14a   9:17a    9:21a     9:29a    9:41a     9:44a     9:51a  
+ NO     0       01             I  10:41a   10:44a  10:47a   10:51a    10:59a   11:11a    11:14a    11:21a  
+ NO     0       01             I  12:11p   12:14p  12:17p   12:21p    12:29p   12:41p    12:44p    12:51p  
+ NO     0       01             I   1:41p    1:44p   1:47p    1:51p     1:59p    2:11p     2:14p     2:21p  
+ NO     0       01             I   3:11p    3:14p   3:17p    3:21p     3:29p    3:41p     3:44p     3:51p  
+ NO     0       01             I   4:41p    4:44p   4:47p    4:51p     4:59p    5:11p     5:14p     5:21p  
+
+

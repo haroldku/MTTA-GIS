@@ -1,0 +1,26 @@
+Run Times
+~~~~~~~~~
+
+SignUp:       MARCH 2015
+Service:      2
+Line:         221
+Printed:      02-16-2015 12:56p
+
+Direction:    To Downtown
+
+Pattern  FrTime  ToTime  Total  MMS BAY 05  31/Garnett  137th EA/24th S-SW  21st/Garnett  E 21st St S&S Memorial Dr  21/SHERIDAN   21/HARVARD  21st/Utica  Boulder/21st S-SW  DAS BAY 04  
+                                      6653        5316                5004          5213                       5275          5281        5215        5283               1593        6642  
+~~~~~~~  ~~~~~~  ~~~~~~  ~~~~~  ~~~~~~~~~~  ~~~~~~~~~~  ~~~~~~~~~~~~~~~~~~  ~~~~~~~~~~~~  ~~~~~~~~~~~~~~~~~~~~~~~~~  ~~~~~~~~~~~~  ~~~~~~~~~~  ~~~~~~~~~~  ~~~~~~~~~~~~~~~~~  ~~~~~~~~~~  
+
+     01   4:00a   9:00p     55           -           9                   8             6                          7             5           6           6                  5           3  
+
+
+Direction:    From Downtown
+
+Pattern  FrTime  ToTime  Total  DAS BAY 04  Boulder/21st S-SW  21st/Utica  21/HARVARD  21/SHERIDAN   E 21st St S&S Memorial Dr  21st/Garnett  137th EA/24th S-SW  31/Garnett  MMS BAY 05  
+                                      6642               1593        5863        5266          5280                       5274          5264                5680        5317        6653  
+~~~~~~~  ~~~~~~  ~~~~~~  ~~~~~  ~~~~~~~~~~  ~~~~~~~~~~~~~~~~~  ~~~~~~~~~~  ~~~~~~~~~~  ~~~~~~~~~~~~  ~~~~~~~~~~~~~~~~~~~~~~~~~  ~~~~~~~~~~~~  ~~~~~~~~~~~~~~~~~~  ~~~~~~~~~~  ~~~~~~~~~~  
+
+     01   4:00a   9:00p   1h03           -                  8           5           7             7                          5             7                   7           8           9  
+
+

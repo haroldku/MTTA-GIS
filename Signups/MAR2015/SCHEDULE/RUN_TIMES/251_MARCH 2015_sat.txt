@@ -1,0 +1,26 @@
+Run Times
+~~~~~~~~~
+
+SignUp:       MARCH 2015
+Service:      2
+Line:         251
+Printed:      02-16-2015  1:23p
+
+Direction:    To Downtown
+
+Pattern  FrTime  ToTime  Total  MMS BAY 01  DAS BAY 2  
+                                      6649       6640  
+~~~~~~~  ~~~~~~  ~~~~~~  ~~~~~  ~~~~~~~~~~  ~~~~~~~~~  
+
+     01  12:00a   36:00     20           -         20  
+
+
+Direction:    From Downtown
+
+Pattern  FrTime  ToTime  Total  DAS BAY 2  MMS BAY 01  
+                                     6640        6649  
+~~~~~~~  ~~~~~~  ~~~~~~  ~~~~~  ~~~~~~~~~  ~~~~~~~~~~  
+
+     01  12:00a   36:00     20          -          20  
+
+

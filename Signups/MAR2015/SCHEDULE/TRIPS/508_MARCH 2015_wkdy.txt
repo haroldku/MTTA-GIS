@@ -1,0 +1,40 @@
+Trips
+~~~~~
+
+SignUp:       MARCH 2015
+Service:      1
+Line:         508
+Exception:    Off
+Printed:      02-16-2015  1:40p
+
+Direction:    CounterClock
+
+Frz  Trip  Pattern  VehType  INT  AspnKeBA     TCC  101/Elm  TreeTop  121/Elm  COLLBACD  Ken/Main  Bass Pro  Ken/Aspe  
+~~~  ~~~~  ~~~~~~~  ~~~~~~~  ~~~  ~~~~~~~~  ~~~~~~  ~~~~~~~  ~~~~~~~  ~~~~~~~  ~~~~~~~~  ~~~~~~~~  ~~~~~~~~  ~~~~~~~~  
+
+ NO     0       01             I     5:55a            6:05a                       6:20a     6:25a               6:30a  
+ NO     0        9             I     6:30a   6:45a    7:10a    7:15a              7:25a     7:30a               7:40a  
+ NO     0       03             I     7:50a   8:05a    8:30a                       8:45a     8:50a               8:55a  
+ NO     0       04             I     9:00a            9:25a    9:30a    9:35a     9:45a     9:50a               9:55a  
+ NO     0       05             I    10:00a  10:20a   10:45a   10:50a   10:55a    11:15a    11:20a    11:25a    11:30a  
+ NO     0       06             I     2:30p   2:50p    3:15p    3:20p    3:25p     3:35p     3:40p               3:45p  
+ NO     0       07             I     4:05p            4:15p                       4:40p     4:45p     4:55p     5:10p  
+ NO     0       08             I     5:10p   5:25p    5:40p    5:50p    5:55p     6:10p     6:15p               6:20p  
+
+
+Direction:    Clock
+
+Frz  Trip  Pattern  VehType  INT  KenAspe  Bass Pro  MaBAKeBA  COLLBACD  101/Elm  TreeTop  121_ELM  INSP CHR  SC/TTC  Ken/Aspe  
+~~~  ~~~~  ~~~~~~~  ~~~~~~~  ~~~  ~~~~~~~  ~~~~~~~~  ~~~~~~~~  ~~~~~~~~  ~~~~~~~  ~~~~~~~  ~~~~~~~  ~~~~~~~~  ~~~~~~  ~~~~~~~~  
+
+ NO     0       01             I    7:00a               7:05a     7:10a    7:20a                       7:30a             7:55a  
+ NO     0       08             I    8:10a               8:15a     8:20a    8:40a                               9:20a     9:35a  
+ NO     0       03             I    9:35a               9:40a     9:45a    9:50a    9:55a   10:00a                      10:25a  
+ NO     0       04             I   10:30a              10:35a    10:40a   10:45a   10:55a   11:05a            11:35a    11:50a  
+ NO     0       05             I   12:00p              12:10p    12:15p   12:20p                              12:55p     1:15p  
+ NO     0       06             I    1:20p     1:25p     1:30p     1:35p    1:45p    1:55p    2:00p             2:20p     2:40p  
+ NO     0       07             I    2:45p               2:50p     2:55p    3:05p                               3:30p     3:45p  
+ NO     0       07             I    3:45p               3:50p     3:55p    4:05p                               4:30p     4:45p  
+ NO     0       09             I    5:00p               5:05p     5:10p    5:15p                                         5:30p  
+
+

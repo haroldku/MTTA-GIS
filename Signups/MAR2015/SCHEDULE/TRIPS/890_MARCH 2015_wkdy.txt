@@ -1,0 +1,27 @@
+Trips
+~~~~~
+
+SignUp:       MARCH 2015
+Service:      1
+Line:         890
+Exception:    Off
+Printed:      02-16-2015  2:11p
+
+Direction:    To Downtown
+
+Frz  Trip  Pattern  VehType  INT   T Hil  33av61st  49AV60ST  51st33av  UniW49st  SW25st    Bu5N   DBAY6  
+~~~  ~~~~  ~~~~~~~  ~~~~~~~  ~~~  ~~~~~~  ~~~~~~~~  ~~~~~~~~  ~~~~~~~~  ~~~~~~~~  ~~~~~~  ~~~~~~  ~~~~~~  
+
+ NO     0       01             I   9:10p     9:18p     9:30p     9:39p     9:43p   9:51p   9:57p  10:00p  
+ NO     0       01             I  11:15p    11:23p    11:35p    11:44p    11:48p  11:56p  12:02x  12:05x  
+
+
+Direction:    From Downtown
+
+Frz  Trip  Pattern  VehType  INT   DBAY6  7stjack  SW25st  49stUnio  51st33rd  49AV60ST  61st33rd   T Hil  
+~~~  ~~~~  ~~~~~~~  ~~~~~~~  ~~~  ~~~~~~  ~~~~~~~  ~~~~~~  ~~~~~~~~  ~~~~~~~~  ~~~~~~~~  ~~~~~~~~  ~~~~~~  
+
+ NO     0       01             I   8:05p    8:07p   8:19p     8:27p     8:31p     8:43p     8:52p   9:00p  
+ NO     0       01             I  10:20p   10:22p  10:34p    10:42p    10:46p    10:58p    11:07p  11:15p  
+
+

@@ -1,0 +1,28 @@
+Run Times
+~~~~~~~~~
+
+SignUp:       MARCH 2015
+Service:      2
+Line:         471
+Printed:      02-16-2015  1:37p
+
+Direction:    Eastbound
+
+Pattern  FrTime  ToTime  Total  Tulsa Hills Shopping Center  E 71St St S&Riverside Dr  71st/Lewis  S Yale Ave&E 65th St  ST FRANCIS HOSP EB   71ST/SHERIDAN   WHM EB 471  E 71ST ST S&S MINGO RD  73RD & 112th   Union Inter High  
+                                                       6500                      6379        6359                  5994                 6770            6352        6773                    6617           4123              4120  
+~~~~~~~  ~~~~~~  ~~~~~~  ~~~~~  ~~~~~~~~~~~~~~~~~~~~~~~~~~~  ~~~~~~~~~~~~~~~~~~~~~~~~  ~~~~~~~~~~  ~~~~~~~~~~~~~~~~~~~~  ~~~~~~~~~~~~~~~~~~~  ~~~~~~~~~~~~~~  ~~~~~~~~~~  ~~~~~~~~~~~~~~~~~~~~~~  ~~~~~~~~~~~~~  ~~~~~~~~~~~~~~~~  
+
+  01SAT  12:00a   36:00   1h04                            -                         6           8                     8                    4               8          10                      10             10                    
+  02SAT  12:00a   36:00     53                            -                         4          10                     6                    4               8           7                       7              7                    
+
+
+Direction:    Westbound
+
+Pattern  FrTime  ToTime  Total  Union Inter High  73RD & 112th   66TH ST S & MINGO ROAD   WHMALL WB 471  71ST/SHERIDAN   NODE 57 ST FRAN HOSP WB  71/Lewis WB-NW  E 71St St S&S QUINCY AVE   Tulsa Hills Shopping Center  
+                                            4120           4123                     6758           6774            3918                     6771            6254                       6354                         6500  
+~~~~~~~  ~~~~~~  ~~~~~~  ~~~~~  ~~~~~~~~~~~~~~~~  ~~~~~~~~~~~~~  ~~~~~~~~~~~~~~~~~~~~~~~  ~~~~~~~~~~~~~  ~~~~~~~~~~~~~~  ~~~~~~~~~~~~~~~~~~~~~~~  ~~~~~~~~~~~~~~  ~~~~~~~~~~~~~~~~~~~~~~~~~  ~~~~~~~~~~~~~~~~~~~~~~~~~~~  
+
+  01SAT  12:00a   36:00   1h00                                -                                      20               8                        8              12                          4                            8  
+  02SAT  12:00a   36:00     42                                -                                       9               7                        8              10                          4                            4  
+
+

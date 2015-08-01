@@ -1,0 +1,26 @@
+Run Times
+~~~~~~~~~
+
+SignUp:       MARCH 2015
+Service:      1
+Line:         840
+Printed:      02-16-2015  1:45p
+
+Direction:    From Downtown
+
+Pattern  FrTime  ToTime  Total  DAS BAY 04  Osage/Fairview  Virgin/Rockford  TCC NE FROM DOWTOWN   36TH STREET NORTH & LEWIS   36TH N AND PEORIA   NODE 53 OSAGE CASINO- TO DOWN  56th St N & Hartford   
+                                      6642            4012             2151                   795                        6786                6787                           4244                   6300  
+~~~~~~~  ~~~~~~  ~~~~~~  ~~~~~  ~~~~~~~~~~  ~~~~~~~~~~~~~~  ~~~~~~~~~~~~~~~  ~~~~~~~~~~~~~~~~~~~~  ~~~~~~~~~~~~~~~~~~~~~~~~~~  ~~~~~~~~~~~~~~~~~~  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~  ~~~~~~~~~~~~~~~~~~~~~  
+
+     01   4:00a   36:00   1h06           -              10               15                     8                           8                   4                              6                     15  
+
+
+Direction:    To Downtown
+
+Pattern  FrTime  ToTime  Total  56th St N & Hartford   OSAGE CASINO (EB)  36 N/Peoria  LEWIS/36TH ST N  TCC NE FROM DOWTOWN   Virgin/Rockford  Osage/Fairview  DAS BAY 04  
+                                                 6470               6767         2179             3107                   795             5581            4012        6642  
+~~~~~~~  ~~~~~~  ~~~~~~  ~~~~~  ~~~~~~~~~~~~~~~~~~~~~  ~~~~~~~~~~~~~~~~~  ~~~~~~~~~~~  ~~~~~~~~~~~~~~~  ~~~~~~~~~~~~~~~~~~~~  ~~~~~~~~~~~~~~~  ~~~~~~~~~~~~~~  ~~~~~~~~~~  
+
+     01   4:00a   36:00   1h06                      -                 15            6                4                     8                8              15          10  
+
+

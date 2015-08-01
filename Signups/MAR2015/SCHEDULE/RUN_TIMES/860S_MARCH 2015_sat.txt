@@ -1,0 +1,26 @@
+Run Times
+~~~~~~~~~
+
+SignUp:       MARCH 2015
+Service:      2
+Line:         860S
+Printed:      02-16-2015  1:55p
+
+Direction:    To Downtown 
+
+Pattern  FrTime  ToTime  Total  137th EA/24th S-SW  E Adm Pl/S 129th E WB  11th/Memorial E-Sw  11th/Yale  11th/Utica  DAS BAY 05  
+                                              3612                   2264                5101       5131         575        6643  
+~~~~~~~  ~~~~~~  ~~~~~~  ~~~~~  ~~~~~~~~~~~~~~~~~~  ~~~~~~~~~~~~~~~~~~~~~  ~~~~~~~~~~~~~~~~~~  ~~~~~~~~~  ~~~~~~~~~~  ~~~~~~~~~~  
+
+     01   4:00a   36:00     40                   -                      9                   9          6           7           9  
+
+
+Direction:    From Downtown
+
+Pattern  FrTime  ToTime  Total  DAS BAY 05  11 & Utica  11YaSB [11th/Yale   11th/Memorial E-Sw  31st/Memorial W-NW  31st/Garnett  137th EA/E 24th Pl S-SW  
+                                      6643        5124                5132                5815                1968          5316                     1952  
+~~~~~~~  ~~~~~~  ~~~~~~  ~~~~~  ~~~~~~~~~~  ~~~~~~~~~~  ~~~~~~~~~~~~~~~~~~  ~~~~~~~~~~~~~~~~~~  ~~~~~~~~~~~~~~~~~~  ~~~~~~~~~~~~  ~~~~~~~~~~~~~~~~~~~~~~~  
+
+     01   4:00a   36:00     45           -           9                   7                   6                   9             6                        8  
+
+

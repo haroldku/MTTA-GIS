@@ -1,0 +1,41 @@
+Trips
+~~~~~
+
+SignUp:       MARCH 2015
+Service:      2
+Line:         215
+Exception:    Off
+Printed:      02-16-2015 12:51p
+
+Direction:    To Downtown
+
+Frz  Trip  Pattern  VehType  INT    MMS3  Sher21st    15Sh    15Ha  DNVR15ST   DBAY6  
+~~~  ~~~~  ~~~~~~~  ~~~~~~~  ~~~  ~~~~~~  ~~~~~~~~  ~~~~~~  ~~~~~~  ~~~~~~~~  ~~~~~~  
+
+ NO     0       01             I   7:06a     7:14a   7:17a   7:23a     7:32a   7:40a  
+ NO     0       01             I   8:21a     8:29a   8:32a   8:38a     8:47a   8:55a  
+ NO     0       01             I   9:36a     9:44a   9:47a   9:53a    10:02a  10:10a  
+ NO     0       01             I  10:51a    10:59a  11:02a  11:08a    11:17a  11:25a  
+ NO     0       01             I  12:06p    12:14p  12:17p  12:23p    12:32p  12:40p  
+ NO     0       01             I   1:21p     1:29p   1:32p   1:38p     1:47p   1:55p  
+ NO     0       01             I   2:36p     2:44p   2:47p   2:53p     3:02p   3:10p  
+ NO     0       01             I   3:51p     3:59p   4:02p   4:08p     4:17p   4:25p  
+ NO     0       01             I   5:06p     5:14p   5:17p   5:23p     5:32p   5:40p  
+
+
+Direction:    From Downtown
+
+Frz  Trip  Pattern  VehType  INT   DBAY6   De11S    15De    15Ha    15Sh    MMS3  
+~~~  ~~~~  ~~~~~~~  ~~~~~~~  ~~~  ~~~~~~  ~~~~~~  ~~~~~~  ~~~~~~  ~~~~~~  ~~~~~~  
+
+ NO     0       01             I   7:45a   7:51a   7:53a   8:02a   8:08a   8:19a  
+ NO     0       01             I   9:00a   9:06a   9:08a   9:17a   9:23a   9:34a  
+ NO     0       01             I  10:15a  10:21a  10:23a  10:32a  10:38a  10:49a  
+ NO     0       01             I  11:30a  11:36a  11:38a  11:47a  11:53a  12:04p  
+ NO     0       01             I  12:45p  12:51p  12:53p   1:02p   1:08p   1:19p  
+ NO     0       01             I   2:00p   2:06p   2:08p   2:17p   2:23p   2:34p  
+ NO     0       01             I   3:15p   3:21p   3:23p   3:32p   3:38p   3:49p  
+ NO     0       01             I   4:30p   4:36p   4:38p   4:47p   4:53p   5:04p  
+ NO     0       01             I   5:45p   5:51p   5:53p   6:02p   6:08p   6:19p  
+
+

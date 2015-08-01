@@ -1,0 +1,33 @@
+Run Times
+~~~~~~~~~
+
+SignUp:       MARCH 2015
+Service:      1
+Line:         222C
+Printed:      02-16-2015  1:12p
+
+Direction:    Clockwise
+
+Pattern  FrTime  ToTime  Total  DAS BAY 04  N Greenwood Ave&OSU  Cincinnati & Pine  E Pine St&N Lewis Ave  Pine/Yale  Pine/Garnett  Garnett/41st  MMS BAY 02  MMS Bay 2   41/Sheridan  OU Clinic  41st/Harvard  41st/Peoria  Utica/21st  6th/Rockford  E 6th St S&S Owasso Ave PEROIA   DAS BAY 04  
+                                      6642                 5633               5520                   5550       3257          5616          5388        6650        6650         5852       6501          5389         5835        5863          5435                             5431        6642  
+~~~~~~~  ~~~~~~  ~~~~~~  ~~~~~  ~~~~~~~~~~  ~~~~~~~~~~~~~~~~~~~  ~~~~~~~~~~~~~~~~~  ~~~~~~~~~~~~~~~~~~~~~  ~~~~~~~~~  ~~~~~~~~~~~~  ~~~~~~~~~~~~  ~~~~~~~~~~  ~~~~~~~~~~  ~~~~~~~~~~~  ~~~~~~~~~  ~~~~~~~~~~~~  ~~~~~~~~~~~  ~~~~~~~~~~  ~~~~~~~~~~~~  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~  ~~~~~~~~~~  
+
+     01   4:00a   9:00p   2h09           -                    3                  9                      7          7            13            16          10           6            5          8            10            8           8            10                                3           6  
+     03  12:00a   36:00   2h10           -                    3                  9                      7          7            13            16          10          10            5                       20            7           8             7                                2           6  
+      5  12:00a   36:00   2h16           -                    3                  9                      7          7            13            16          10          10            6          6            19            7           8             7                                2           6  
+     PI  12:00a   36:00   1h05           -                    3                  9                      7          7            13            16          10                                                                                                                                        
+
+
+Direction:    CounterClock
+
+Pattern  FrTime  ToTime  Total  DAS BAY9  E 6th St S&S Owasso Ave PEROIA   6th/Rockford  Utica/21st  E 41st St S&S Peoria Ave  41st/Harvard  OU Clinic CC  SHERIDAN/41ST  MMS BAY 08  MMS Bay 8  41/Garnett  Garnett/Pine  E Pine St&N Yale Ave  E Pine St&N Lewis Ave  Martin Luther King Jr Blvd & E P  N Greenwood Ave&OSU  DAS BAY9  
+                                    6647                             5432          5436        5864                      5397          5769          6503           5401        6656       6656        3260          5534                  5571                   5549                              5610                 5634      6647  
+~~~~~~~  ~~~~~~  ~~~~~~  ~~~~~  ~~~~~~~~  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~  ~~~~~~~~~~~~  ~~~~~~~~~~  ~~~~~~~~~~~~~~~~~~~~~~~~  ~~~~~~~~~~~~  ~~~~~~~~~~~~  ~~~~~~~~~~~~~  ~~~~~~~~~~  ~~~~~~~~~  ~~~~~~~~~~  ~~~~~~~~~~~~  ~~~~~~~~~~~~~~~~~~~~  ~~~~~~~~~~~~~~~~~~~~~  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~  ~~~~~~~~~~~~~~~~~~~  ~~~~~~~~  
+
+     02  12:00a   36:00   2h10         -                                6             2           7                         8             8            10              6           7          6          11            17                    14                      8                                 8                    9         3  
+     04  12:00a   36:00   2h10         -                                6             2           7                         8             8                           18           5          6          11            17                    14                      8                                 8                    9         3  
+    04B  12:00a   36:00   2h20         -                                6             2           7                         8             8                           18           5         16          11            17                    14                      8                                 8                    9         3  
+      6  12:00a   36:00   2h14         -                                6             2           7                        11             8            10             11           5          6          10            16                    14                      8                                 8                    9         3  
+     PI   4:00a   9:00p   1h00         -                                6             2           7                        11             8                           21           5                                                                                                                                                     
+
+

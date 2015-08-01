@@ -1,0 +1,80 @@
+Stop Trips
+~~~~~~~~~~
+
+SignUp:       MARCH 2015
+Service:      1
+Line:         251
+Exception:    Off
+Printed:      02-16-2015  1:22p
+
+Direction:    To Downtown
+
+Pattern  INT  VAL    MMS1   DBAY2  
+                     6649    6640  
+~~~~~~~  ~~~  ~~~  ~~~~~~  ~~~~~~  
+
+     01    I    V   5:45a   6:10a  
+     01    I    V   6:15a   6:40a  
+     01    I    V   6:45a   7:10a  
+     01    I    V   7:15a   7:40a  
+     01    I    V   7:45a   8:10a  
+     01    I    V   8:15a   8:40a  
+     01    I    V   8:45a   9:10a  
+     01    I    V   9:15a   9:40a  
+     01    I    V   9:45a  10:10a  
+     01    I    V  10:15a  10:40a  
+     01    I    V  10:45a  11:10a  
+     01    I    V  11:15a  11:40a  
+     01    I    V  11:45a  12:10p  
+     01    I    V  12:15p  12:40p  
+     01    I    V  12:45p   1:10p  
+     01    I    V   1:15p   1:40p  
+     01    I    V   1:45p   2:10p  
+     01    I    V   2:15p   2:40p  
+     01    I    V   2:45p   3:10p  
+     01    I    V   3:15p   3:40p  
+     01    I    V   3:45p   4:10p  
+     01    I    V   4:15p   4:40p  
+     01    I    V   4:45p   5:10p  
+     01    I    V   5:15p   5:40p  
+     01    I    V   5:45p   6:10p  
+     01    I    V   6:15p   6:40p  
+     01    I    V   6:45p   7:10p  
+
+
+Direction:    From Downtown
+
+Pattern  INT  VAL   DBAY2    MMS1  
+                     6640    6649  
+~~~~~~~  ~~~  ~~~  ~~~~~~  ~~~~~~  
+
+     01    I    V   5:15a   5:40a  
+     01    I    V   5:45a   6:10a  
+     01    I    V   6:15a   6:40a  
+     01    I    V   6:45a   7:10a  
+     01    I    V   7:15a   7:40a  
+     01    I    V   7:45a   8:10a  
+     01    I    V   8:15a   8:40a  
+     01    I    V   8:45a   9:10a  
+     01    I    V   9:15a   9:40a  
+     01    I    V   9:45a  10:10a  
+     01    I    V  10:15a  10:40a  
+     01    I    V  10:45a  11:10a  
+     01    I    V  11:15a  11:40a  
+     01    I    V  11:45a  12:10p  
+     01    I    V  12:15p  12:40p  
+     01    I    V  12:45p   1:10p  
+     01    I    V   1:15p   1:40p  
+     01    I    V   1:45p   2:10p  
+     01    I    V   2:15p   2:40p  
+     01    I    V   2:45p   3:10p  
+     01    I    V   3:15p   3:40p  
+     01    I    V   3:45p   4:10p  
+     01    I    V   4:15p   4:40p  
+     01    I    V   4:45p   5:10p  
+     01    I    V   5:15p   5:40p  
+     01    I    V   5:45p   6:10p  
+     01    I    V   6:15p   6:40p  
+     01    I    V   6:45p   7:10p  
+
+

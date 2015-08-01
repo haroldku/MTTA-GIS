@@ -1,0 +1,17 @@
+Run Times
+~~~~~~~~~
+
+SignUp:       MARCH 2015
+Service:      1
+Line:         306
+Printed:      02-16-2015  1:26p
+
+Direction:    Midtown
+
+Pattern  FrTime  ToTime  Total  MMS BAY 10  S Memorial Dr&E 40th St S  46th/Mingo  S Garnett Rd&E 41st St S  Garnett &61st   71st & 109th   51ST/129TH E AV  S Garnett Rd&E 41st St S  46th/Mingo  MMS BAY 10  
+                                      6658                       5806        4129                      5746            4265           6343             3164                      5388        4129        6658  
+~~~~~~~  ~~~~~~  ~~~~~~  ~~~~~  ~~~~~~~~~~  ~~~~~~~~~~~~~~~~~~~~~~~~~  ~~~~~~~~~~  ~~~~~~~~~~~~~~~~~~~~~~~~  ~~~~~~~~~~~~~~  ~~~~~~~~~~~~~  ~~~~~~~~~~~~~~~  ~~~~~~~~~~~~~~~~~~~~~~~~  ~~~~~~~~~~  ~~~~~~~~~~  
+
+     01  12:00a   36:00   1h03           -                          3           7                         5               5              9               11                         5           5          13  
+
+

@@ -1,0 +1,25 @@
+Trips
+~~~~~
+
+SignUp:       MARCH 2015
+Service:      1
+Line:         909
+Exception:    Off
+Printed:      02-16-2015  2:20p
+
+Direction:    To Downtown
+
+Frz  Trip  Pattern  VehType  INT  Union   Ba  145     Bo7     1Ma     Ch5    10Ma    15Bu  
+~~~  ~~~~  ~~~~~~~  ~~~~~~~  ~~~  ~~~~~~  ~~~~~~~  ~~~~~~  ~~~~~~  ~~~~~~  ~~~~~~  ~~~~~~  
+
+ NO     0       02             I   6:50a    7:06a   7:22a   7:28a   7:31a   7:34a   7:37a  
+
+
+Direction:    From Downtown
+
+Frz  Trip  Pattern  VehType  INT    15Bu     Bo7     1Ma     Ch5    Ma10  Union   Ba  145  IndnSpr  
+~~~  ~~~~  ~~~~~~~  ~~~~~~~  ~~~  ~~~~~~  ~~~~~~  ~~~~~~  ~~~~~~  ~~~~~~  ~~~~~~  ~~~~~~~  ~~~~~~~  
+
+ NO     0       03             I   4:47p   4:53p   4:59p   5:02p   5:05p   5:28p    5:45p           
+
+

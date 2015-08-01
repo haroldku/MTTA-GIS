@@ -1,0 +1,38 @@
+Trips
+~~~~~
+
+SignUp:       MARCH 2015
+Service:      2
+Line:         111
+Exception:    Off
+Printed:      02-16-2015 10:03a
+
+Direction:    To Downtown
+
+Frz  Trip  Pattern  VehType  INT   123Ar  11thGarn    11Me    11Ya   11Lew    11Pe  6BosEB  DBAY11  
+~~~  ~~~~  ~~~~~~~  ~~~~~~~  ~~~  ~~~~~~  ~~~~~~~~  ~~~~~~  ~~~~~~  ~~~~~~  ~~~~~~  ~~~~~~  ~~~~~~  
+
+ NO     0        b             I   6:46a     6:53a   6:59a   7:06a   7:10a   7:16a   7:22a   7:25a  
+ NO     0        b             I   8:16a     8:23a   8:29a   8:36a   8:40a   8:46a   8:52a   8:55a  
+ NO     0        b             I   9:46a     9:53a   9:59a  10:06a  10:10a  10:16a  10:22a  10:25a  
+ NO     0        b             I  11:16a    11:23a  11:29a  11:36a  11:40a  11:46a  11:52a  11:55a  
+ NO     0        b             I  12:46p    12:53p  12:59p   1:06p   1:10p   1:16p   1:22p   1:25p  
+ NO     0        b             I   2:16p     2:23p   2:29p   2:36p   2:40p   2:46p   2:52p   2:55p  
+ NO     0        b             I   3:46p     3:53p   3:59p   4:06p   4:10p   4:16p   4:22p   4:25p  
+ NO     0        b             I   5:25p     5:32p   5:38p   5:45p   5:49p   5:55p   6:01p   6:04p  
+
+
+Direction:    From Downtown
+
+Frz  Trip  Pattern  VehType  INT  DBAY11    6BuE    11Pe   11Lew    11Ya    11Me  11thGarn   123Ar  
+~~~  ~~~~  ~~~~~~~  ~~~~~~~  ~~~  ~~~~~~  ~~~~~~  ~~~~~~  ~~~~~~  ~~~~~~  ~~~~~~  ~~~~~~~~  ~~~~~~  
+
+ NO     0        B             I   7:30a   7:33a   7:39a   7:42a   7:49a   7:56a     8:03a   8:10a  
+ NO     0        B             I   9:00a   9:03a   9:09a   9:12a   9:19a   9:26a     9:33a   9:40a  
+ NO     0        B             I  10:30a  10:33a  10:39a  10:42a  10:49a  10:56a    11:03a  11:10a  
+ NO     0        B             I  12:00p  12:03p  12:09p  12:12p  12:19p  12:26p    12:33p  12:40p  
+ NO     0        B             I   1:30p   1:33p   1:39p   1:42p   1:49p   1:56p     2:03p   2:10p  
+ NO     0        B             I   3:00p   3:03p   3:09p   3:12p   3:19p   3:26p     3:33p   3:40p  
+ NO     0        B             I   4:45p   4:48p   4:54p   4:57p   5:04p   5:11p     5:18p   5:25p  
+
+

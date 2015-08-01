@@ -1,0 +1,27 @@
+Run Times
+~~~~~~~~~
+
+SignUp:       MARCH 2015
+Service:      1
+Line:         117
+Printed:      02-16-2015 10:55a
+
+Direction:    FROM DOWNTOWN
+
+Pattern  FrTime  ToTime  Total  DAS BAY 8  E 7Th St S&S Jackson Ave  Southwest Blvd&W 25Th St S/UNNAM  Union/41st W  49th/Jackson EB  S Union Ave&W 61St St S  Tulsa Hills 117/118 STOP  
+                                     6646                      6388                              6024          2786             1244                     6552                      4267  
+~~~~~~~  ~~~~~~  ~~~~~~  ~~~~~  ~~~~~~~~~  ~~~~~~~~~~~~~~~~~~~~~~~~  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~  ~~~~~~~~~~~~  ~~~~~~~~~~~~~~~  ~~~~~~~~~~~~~~~~~~~~~~~  ~~~~~~~~~~~~~~~~~~~~~~~~  
+
+     01  12:00a   36:00     42          -                         2                                15             3                7                        7                         8  
+     02  12:00a   36:00     42          -                         2                                15             3                7                        7                         8  
+
+
+Direction:    TO DOWNTOWN
+
+Pattern  FrTime  ToTime  Total  Tulsa Hills 117/118 STOP  Union/61st W S-SW  49th/Jackson EB  Union/41st W  25TH SOUTHWEST  E 7Th St S&S Jackson Ave  DAS BAY 8  
+                                                    4267               3915             1244          6520            1208                      6387       6646  
+~~~~~~~  ~~~~~~  ~~~~~~  ~~~~~  ~~~~~~~~~~~~~~~~~~~~~~~~  ~~~~~~~~~~~~~~~~~  ~~~~~~~~~~~~~~~  ~~~~~~~~~~~~  ~~~~~~~~~~~~~~  ~~~~~~~~~~~~~~~~~~~~~~~~  ~~~~~~~~~  
+
+     01  12:00a   36:00     35                         -                  6                6             7               4                        10          2  
+
+

@@ -1,0 +1,36 @@
+Trips
+~~~~~
+
+SignUp:       MARCH 2015
+Service:      2
+Line:         114
+Exception:    Off
+Printed:      02-16-2015 10:50a
+
+Direction:    To Downtown
+
+Frz  Trip  Pattern  VehType  INT  Wal mart     2Ad    65CP    49WM    GiCP  GilEstat  Gilcmusm  CCJASP   DBAY5  
+~~~  ~~~~  ~~~~~~~  ~~~~~~~  ~~~  ~~~~~~~~  ~~~~~~  ~~~~~~  ~~~~~~  ~~~~~~  ~~~~~~~~  ~~~~~~~~  ~~~~~~  ~~~~~~  
+
+ NO     0       02             I     6:21a   6:32a   6:38a   6:45a   6:53a                       7:01a   7:10a  
+ NO     0       02             I     8:21a   8:32a   8:38a   8:45a   8:53a                       9:01a   9:10a  
+ NO     0       02             I    10:21a  10:32a  10:38a  10:45a  10:53a                      11:01a  11:10a  
+ NO     0       02             I    12:21p  12:32p  12:38p  12:45p  12:53p                       1:01p   1:10p  
+ NO     0       02             I     2:21p   2:32p   2:38p   2:45p   2:53p                       3:01p   3:10p  
+ NO     0       02             I     4:21p   4:32p   4:38p   4:45p   4:53p                       5:01p   5:10p  
+ NO     0       02             I     6:15p   6:26p   6:32p   6:39p   6:47p                       6:55p   7:04p  
+
+
+Direction:    From Downtown
+
+Frz  Trip  Pattern  VehType  INT   DBAY5    JaCC  GilEstat  Gilcmusm    GiCP    49WM    65CP     2Ad  Wal mart  
+~~~  ~~~~  ~~~~~~~  ~~~~~~~  ~~~  ~~~~~~  ~~~~~~  ~~~~~~~~  ~~~~~~~~  ~~~~~~  ~~~~~~  ~~~~~~  ~~~~~~  ~~~~~~~~  
+
+ NO     0       02             I   7:15a   7:27a                       7:37a   7:45a   7:52a   7:59a     8:10a  
+ NO     0       02             I   9:15a   9:27a                       9:37a   9:45a   9:52a   9:59a    10:10a  
+ NO     0       02             I  11:15a  11:27a                      11:37a  11:45a  11:52a  11:59a    12:10p  
+ NO     0       02             I   1:15p   1:27p                       1:37p   1:45p   1:52p   1:59p     2:10p  
+ NO     0       02             I   3:15p   3:27p                       3:37p   3:45p   3:52p   3:59p     4:10p  
+ NO     0       02             I   5:20p   5:32p                       5:42p   5:50p   5:57p   6:04p     6:15p  
+
+

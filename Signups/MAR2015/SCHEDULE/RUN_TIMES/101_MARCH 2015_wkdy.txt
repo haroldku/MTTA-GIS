@@ -1,0 +1,38 @@
+Run Times
+~~~~~~~~~
+
+SignUp:       MARCH 2015
+Service:      1
+Line:         101
+Printed:      02-16-2015  9:45a
+
+Direction:    From Downtown
+
+Pattern  FrTime  ToTime  Total  DAS BAY 05  Cincinnati/Pine  Garrison/27th  West View Clinic- From Downtown  NODE 53 OSAGE CASINO- TO DOWN  Denver/49th  Hartford/56  MLK Jr Blvd  & 61st St N  
+                                      6643             6323           6308                             2649                           4244         6438         3213                      2646  
+~~~~~~~  ~~~~~~  ~~~~~~  ~~~~~  ~~~~~~~~~~  ~~~~~~~~~~~~~~~  ~~~~~~~~~~~~~  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~  ~~~~~~~~~~~  ~~~~~~~~~~~  ~~~~~~~~~~~~~~~~~~~~~~~~  
+
+     01   4:00a   9:00p     44           -               11              6                                                                           12                                     15  
+     02   4:00a   9:00p     36           -               11              6                                                                                         9                        10  
+     03   4:00a   9:00p     45           -               11              5                                7                              3                         9                        10  
+     04   4:00a   9:00p     45           -               11              5                                7                              3            9                                     10  
+     05  12:00a   36:00     45           -               11              5                                                              10            9                                     10  
+     06  12:00a   36:00     45           -               11              5                                                              10                         9                        10  
+   sat1   4:00a   9:00p     50           -               11              5                                                               ?           19                                     15  
+   sat2   4:00a   9:00p     36           -               11              6                                                               ?                         9                        10  
+
+
+Direction:    To Downtown
+
+Pattern  FrTime  ToTime  Total  MLK Jr Blvd  & 61st St N  56th St N & Hartford   49th/Denver  NODE 52 WESTVIEW TO DOWNTOWN  NODE 53 OSAGE CASINO- TO DOWN  Garrison/27th  Cincinnati/Pine  DAS BAY 05  
+                                                       1                   6470         3212                          6766                           6767           6452             1857        6643  
+~~~~~~~  ~~~~~~  ~~~~~~  ~~~~~  ~~~~~~~~~~~~~~~~~~~~~~~~  ~~~~~~~~~~~~~~~~~~~~~  ~~~~~~~~~~~  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~  ~~~~~~~~~~~~~  ~~~~~~~~~~~~~~~  ~~~~~~~~~~  
+
+     01   4:00a   9:00p     30                         -                      5                                                                         ?              9                6          10  
+     02   4:00a   9:00p     28                         -                                   7                                                            ?              6                5          10  
+     03   4:00a   9:00p     38                         -                      5                                          9                              3              8                4           9  
+     04   4:00a   9:00p     38                         -                                   7                             7                              3              8                4           9  
+     05  12:00a   36:00     38                         -                      5                                                                        12              8                4           9  
+     06  12:00a   36:00     38                         -                                   7                                                           10              8                4           9  
+
+

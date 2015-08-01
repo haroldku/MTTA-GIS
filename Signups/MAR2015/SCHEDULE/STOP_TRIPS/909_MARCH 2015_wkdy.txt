@@ -1,0 +1,27 @@
+Stop Trips
+~~~~~~~~~~
+
+SignUp:       MARCH 2015
+Service:      1
+Line:         909
+Exception:    Off
+Printed:      02-16-2015  2:21p
+
+Direction:    To Downtown
+
+Pattern  INT  VAL  Union   Ba  145     Bo7             1Ma     Ch5    10Ma    15Bu  
+                     4120     2454    2456    2280    2457    3732    2713    1033  
+~~~~~~~  ~~~  ~~~  ~~~~~~  ~~~~~~~  ~~~~~~  ~~~~~~  ~~~~~~  ~~~~~~  ~~~~~~  ~~~~~~  
+
+     02    I    V   6:50a    7:06a   7:22a   7:22a   7:28a   7:31a   7:34a   7:37a  
+
+
+Direction:    From Downtown
+
+Pattern  INT  VAL    15Bu     Bo7     1Ma     Ch5    Ma10  Union   Ba  145  IndnSpr  
+                     1033    2456    2457    3732    2458    4120     2454     4137  
+~~~~~~~  ~~~  ~~~  ~~~~~~  ~~~~~~  ~~~~~~  ~~~~~~  ~~~~~~  ~~~~~~  ~~~~~~~  ~~~~~~~  
+
+     03    I    V   4:47p   4:53p   4:59p   5:02p   5:05p   5:28p    5:45p           
+
+

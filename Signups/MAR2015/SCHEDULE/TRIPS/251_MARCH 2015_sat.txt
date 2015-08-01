@@ -1,0 +1,53 @@
+Trips
+~~~~~
+
+SignUp:       MARCH 2015
+Service:      2
+Line:         251
+Exception:    Off
+Printed:      02-16-2015  1:24p
+
+Direction:    To Downtown
+
+Frz  Trip  Pattern  VehType  INT    MMS1   DBAY2  
+~~~  ~~~~  ~~~~~~~  ~~~~~~~  ~~~  ~~~~~~  ~~~~~~  
+
+ NO     0       01             I   7:35a   7:55a  
+ NO     0       01             I   8:20a   8:40a  
+ NO     0       01             I   9:05a   9:25a  
+ NO     0       01             I   9:50a  10:10a  
+ NO     0       01             I  10:35a  10:55a  
+ NO     0       01             I  11:20a  11:40a  
+ NO     0       01             I  12:05p  12:25p  
+ NO     0       01             I  12:50p   1:10p  
+ NO     0       01             I   1:35p   1:55p  
+ NO     0       01             I   2:20p   2:40p  
+ NO     0       01             I   3:05p   3:25p  
+ NO     0       01             I   3:50p   4:10p  
+ NO     0       01             I   4:35p   4:55p  
+ NO     0       01             I   5:20p   5:40p  
+ NO     0       01             I   6:10p   6:30p  
+
+
+Direction:    From Downtown
+
+Frz  Trip  Pattern  VehType  INT   DBAY2    MMS1  
+~~~  ~~~~  ~~~~~~~  ~~~~~~~  ~~~  ~~~~~~  ~~~~~~  
+
+ NO     0       01             I   7:15a   7:35a  
+ NO     0       01             I   8:00a   8:20a  
+ NO     0       01             I   8:45a   9:05a  
+ NO     0       01             I   9:30a   9:50a  
+ NO     0       01             I  10:15a  10:35a  
+ NO     0       01             I  11:00a  11:20a  
+ NO     0       01             I  11:45a  12:05p  
+ NO     0       01             I  12:30p  12:50p  
+ NO     0       01             I   1:15p   1:35p  
+ NO     0       01             I   2:00p   2:20p  
+ NO     0       01             I   2:45p   3:05p  
+ NO     0       01             I   3:30p   3:50p  
+ NO     0       01             I   4:15p   4:35p  
+ NO     0       01             I   5:00p   5:20p  
+ NO     0       01             I   5:45p   6:05p  
+
+

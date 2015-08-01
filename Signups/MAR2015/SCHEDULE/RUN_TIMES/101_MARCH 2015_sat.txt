@@ -1,0 +1,31 @@
+Run Times
+~~~~~~~~~
+
+SignUp:       MARCH 2015
+Service:      2
+Line:         101
+Printed:      02-16-2015  9:48a
+
+Direction:    From Downtown
+
+Pattern  FrTime  ToTime  Total  DAS BAY 05  Cincinnati/Pine  Garrison/27th  West View Clinic- From Downtown  NODE 53 OSAGE CASINO- TO DOWN  Denver/49th  Hartford/56  MLK Jr Blvd  & 61st St N  
+                                      6643             6323           6308                             2649                           4244         6438         3213                      2646  
+~~~~~~~  ~~~~~~  ~~~~~~  ~~~~~  ~~~~~~~~~~  ~~~~~~~~~~~~~~~  ~~~~~~~~~~~~~  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~  ~~~~~~~~~~~  ~~~~~~~~~~~  ~~~~~~~~~~~~~~~~~~~~~~~~  
+
+   sat1   4:00a   9:00p     45           -               11              5                                                              10            9                                     10  
+   sat2   4:00a   9:00p     45           -               11              5                                                              10                         9                        10  
+   SAT3   4:00a   9:00p     49           -               12              5                                                              10           10                                     12  
+   SAT4   4:00a   9:00p     40           -               12              5                                                               6                         8                         9  
+
+
+Direction:    To Downtown
+
+Pattern  FrTime  ToTime  Total  MLK Jr Blvd  & 61st St N  56th St N & Hartford   49th/Denver  NODE 52 WESTVIEW TO DOWNTOWN  NODE 53 OSAGE CASINO- TO DOWN  Garrison/27th  Cincinnati/Pine  DAS BAY 05  
+                                                       1                   6470         3212                          6766                           6767           6452             1857        6643  
+~~~~~~~  ~~~~~~  ~~~~~~  ~~~~~  ~~~~~~~~~~~~~~~~~~~~~~~~  ~~~~~~~~~~~~~~~~~~~~~  ~~~~~~~~~~~  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~  ~~~~~~~~~~~~~  ~~~~~~~~~~~~~~~  ~~~~~~~~~~  
+
+     01   4:00a   9:00p     38                         -                      5                                                                        12              6                5          10  
+     02   4:00a   9:00p     38                         -                                   7                                                           10              6                5          10  
+     2b   4:00a   9:00p     32                         -                                   5                                                            7              7                5           8  
+
+

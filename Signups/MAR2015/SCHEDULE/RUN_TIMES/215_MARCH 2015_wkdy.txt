@@ -1,0 +1,26 @@
+Run Times
+~~~~~~~~~
+
+SignUp:       MARCH 2015
+Service:      1
+Line:         215
+Printed:      02-16-2015 12:48p
+
+Direction:    To Downtown
+
+Pattern  FrTime  ToTime  Total  MMS BAY 03  S Sheridan Rd&E 21st St S  15th/Sheridan  15th/Harvard  S DENVER AVE & W 15TH STREET   DAS BAY 06  
+                                      6651                       5842           6709          5157                           5712        6644  
+~~~~~~~  ~~~~~~  ~~~~~~  ~~~~~  ~~~~~~~~~~  ~~~~~~~~~~~~~~~~~~~~~~~~~  ~~~~~~~~~~~~~  ~~~~~~~~~~~~  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~  ~~~~~~~~~~  
+
+     01   4:00a   9:00p     38           -                          7              4             8                             11           8  
+
+
+Direction:    From Downtown
+
+Pattern  FrTime  ToTime  Total  DAS BAY 06  Denver/11th S-SW  15/Denver  15th/Harvard  15th/Sheridan  MMS BAY 03  
+                                      6644              5708       5893          5158           1063        6651  
+~~~~~~~  ~~~~~~  ~~~~~~  ~~~~~  ~~~~~~~~~~  ~~~~~~~~~~~~~~~~  ~~~~~~~~~  ~~~~~~~~~~~~  ~~~~~~~~~~~~~  ~~~~~~~~~~  
+
+     01   4:00a   9:00p     38           -                 6          2            11              8          11  
+
+

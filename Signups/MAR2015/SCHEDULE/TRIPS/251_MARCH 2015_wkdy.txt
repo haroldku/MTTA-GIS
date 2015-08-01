@@ -1,0 +1,78 @@
+Trips
+~~~~~
+
+SignUp:       MARCH 2015
+Service:      1
+Line:         251
+Exception:    Off
+Printed:      02-16-2015  1:20p
+
+Direction:    To Downtown
+
+Frz  Trip  Pattern  VehType  INT    MMS1   DBAY2  
+~~~  ~~~~  ~~~~~~~  ~~~~~~~  ~~~  ~~~~~~  ~~~~~~  
+
+ NO     0       01             I   5:45a   6:10a  
+ NO     0       01             I   6:15a   6:40a  
+ NO     0       01             I   6:45a   7:10a  
+ NO     0       01             I   7:15a   7:40a  
+ NO     0       01             I   7:45a   8:10a  
+ NO     0       01             I   8:15a   8:40a  
+ NO     0       01             I   8:45a   9:10a  
+ NO     0       01             I   9:15a   9:40a  
+ NO     0       01             I   9:45a  10:10a  
+ NO     0       01             I  10:15a  10:40a  
+ NO     0       01             I  10:45a  11:10a  
+ NO     0       01             I  11:15a  11:40a  
+ NO     0       01             I  11:45a  12:10p  
+ NO     0       01             I  12:15p  12:40p  
+ NO     0       01             I  12:45p   1:10p  
+ NO     0       01             I   1:15p   1:40p  
+ NO     0       01             I   1:45p   2:10p  
+ NO     0       01             I   2:15p   2:40p  
+ NO     0       01             I   2:45p   3:10p  
+ NO     0       01             I   3:15p   3:40p  
+ NO     0       01             I   3:45p   4:10p  
+ NO     0       01             I   4:15p   4:40p  
+ NO     0       01             I   4:45p   5:10p  
+ NO     0       01             I   5:15p   5:40p  
+ NO     0       01             I   5:45p   6:10p  
+ NO     0       01             I   6:15p   6:40p  
+ NO     0       01             I   6:45p   7:10p  
+
+
+Direction:    From Downtown
+
+Frz  Trip  Pattern  VehType  INT   DBAY2    MMS1  
+~~~  ~~~~  ~~~~~~~  ~~~~~~~  ~~~  ~~~~~~  ~~~~~~  
+
+ NO     0       01             I   5:15a   5:40a  
+ NO     0       01             I   5:45a   6:10a  
+ NO     0       01             I   6:15a   6:40a  
+ NO     0       01             I   6:45a   7:10a  
+ NO     0       01             I   7:15a   7:40a  
+ NO     0       01             I   7:45a   8:10a  
+ NO     0       01             I   8:15a   8:40a  
+ NO     0       01             I   8:45a   9:10a  
+ NO     0       01             I   9:15a   9:40a  
+ NO     0       01             I   9:45a  10:10a  
+ NO     0       01             I  10:15a  10:40a  
+ NO     0       01             I  10:45a  11:10a  
+ NO     0       01             I  11:15a  11:40a  
+ NO     0       01             I  11:45a  12:10p  
+ NO     0       01             I  12:15p  12:40p  
+ NO     0       01             I  12:45p   1:10p  
+ NO     0       01             I   1:15p   1:40p  
+ NO     0       01             I   1:45p   2:10p  
+ NO     0       01             I   2:15p   2:40p  
+ NO     0       01             I   2:45p   3:10p  
+ NO     0       01             I   3:15p   3:40p  
+ NO     0       01             I   3:45p   4:10p  
+ NO     0       01             I   4:15p   4:40p  
+ NO     0       01             I   4:45p   5:10p  
+ NO     0       01             I   5:15p   5:40p  
+ NO     0       01             I   5:45p   6:10p  
+ NO     0       01             I   6:15p   6:40p  
+ NO     0       01             I   6:45p   7:10p  
+
+

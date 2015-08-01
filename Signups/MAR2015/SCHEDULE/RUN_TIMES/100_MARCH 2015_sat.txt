@@ -1,0 +1,26 @@
+Run Times
+~~~~~~~~~
+
+SignUp:       MARCH 2015
+Service:      2
+Line:         100
+Printed:      02-16-2015  9:33a
+
+Direction:    To Downtown
+
+Pattern  FrTime  ToTime  Total  N 123rd E Ave&E Archer St  ADMIRAL PL/MEMORIAL P W-NW  ADMIRAL/YALE W-NW  N PITTSBURG AVE&E ADMIAL PL FD  3RD/ROCKFORD W-NW  DAS BAY 01  
+                                                     5597                        5478               5457                            5647               5350        6639  
+~~~~~~~  ~~~~~~  ~~~~~~  ~~~~~  ~~~~~~~~~~~~~~~~~~~~~~~~~  ~~~~~~~~~~~~~~~~~~~~~~~~~~  ~~~~~~~~~~~~~~~~~  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~  ~~~~~~~~~~~~~~~~~  ~~~~~~~~~~  
+
+     01   4:00a   9:00p     35                          -                          11                  7                               5                  7           5  
+
+
+Direction:    From Downtown
+
+Pattern  FrTime  ToTime  Total  DAS BAY 01  3/ROCKFORD  FLAG NODE PITT ADMRIAL OB  Admiral/Yale E-SE  Admiral/Memorial  N 123rd E Ave&E Archer St  
+                                      6639        5351                       6793               5458              5450                       5597  
+~~~~~~~  ~~~~~~  ~~~~~~  ~~~~~  ~~~~~~~~~~  ~~~~~~~~~~  ~~~~~~~~~~~~~~~~~~~~~~~~~  ~~~~~~~~~~~~~~~~~  ~~~~~~~~~~~~~~~~  ~~~~~~~~~~~~~~~~~~~~~~~~~  
+
+     01   4:00a   9:00p     35           -           5                          7                  5                 7                         11  
+
+

@@ -1,0 +1,26 @@
+Run Times
+~~~~~~~~~
+
+SignUp:       MARCH 2015
+Service:      1
+Line:         118
+Printed:      02-16-2015 11:02a
+
+Direction:    FROM DOWNTOWN
+
+Pattern  FrTime  ToTime  Total  DAS BAY 8  Southwest Blvd&W 25Th St S/UNNAM  51ST/33RD W  QUICK TRIP  W 61st S & S 33rd W Ave  Tulsa Hills 117/118 STOP  
+                                     6646                              6024         6510        6584                     6511                      4267  
+~~~~~~~  ~~~~~~  ~~~~~~  ~~~~~  ~~~~~~~~~  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~  ~~~~~~~~~~~  ~~~~~~~~~~  ~~~~~~~~~~~~~~~~~~~~~~~  ~~~~~~~~~~~~~~~~~~~~~~~~  
+
+      A  12:00a   36:00     40          -                                11            9           6                        3                        11  
+
+
+Direction:    TO DOWNTOWN
+
+Pattern  FrTime  ToTime  Total  Tulsa Hills 117/118 STOP  S 33rd W Ave & W 61st st S  QUICK TRIP WEST   W 51st S & 33rd W Ave   25TH SOUTHWEST  DAS BAY 8  
+                                                    4267                        6558              6584                    6563            1208       6646  
+~~~~~~~  ~~~~~~  ~~~~~~  ~~~~~  ~~~~~~~~~~~~~~~~~~~~~~~~  ~~~~~~~~~~~~~~~~~~~~~~~~~~  ~~~~~~~~~~~~~~~~  ~~~~~~~~~~~~~~~~~~~~~~  ~~~~~~~~~~~~~~  ~~~~~~~~~  
+
+      A  12:00a   36:00     37                         -                           8                 3                       6               9         11  
+
+

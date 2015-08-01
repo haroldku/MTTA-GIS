@@ -1,0 +1,28 @@
+Run Times
+~~~~~~~~~
+
+SignUp:       MARCH 2015
+Service:      1
+Line:         902
+Printed:      02-16-2015  2:18p
+
+Direction:    To Downtown
+
+Pattern  FrTime  ToTime  Total  Indian Springs Church   Union Inter High  Battle Creek/145th  MMS BAY 10  Boston/7th  1st and Cincinati Ave  1st/Main  Cheyenne/5th  Main/10th  15th & Boulder   
+                                                  6507              4120                2454        6658        2456                   4271      2457          2740       2458             5890  
+~~~~~~~  ~~~~~~  ~~~~~~  ~~~~~  ~~~~~~~~~~~~~~~~~~~~~~  ~~~~~~~~~~~~~~~~  ~~~~~~~~~~~~~~~~~~  ~~~~~~~~~~  ~~~~~~~~~~  ~~~~~~~~~~~~~~~~~~~~~  ~~~~~~~~  ~~~~~~~~~~~~  ~~~~~~~~~  ~~~~~~~~~~~~~~~  
+
+     02   4:00a   9:00p     38                                                             -                      23                      1         5             3          3                3  
+     03   4:00a   9:00p     53                       -                                    15                      23                      1         5             3          3                3  
+
+
+Direction:    From Downtown
+
+Pattern  FrTime  ToTime  Total  15th & Boulder   Boston/7th  1st and Cincinati Ave  1st/Main  Cheyenne/5th  Main/10th  MMS BAY 10  Battle Creek/145th  Union Inter High  Indian Springs Church   
+                                           1033        2456                   4271      2457          2740       2745        6658                2454              4120                    6507  
+~~~~~~~  ~~~~~~  ~~~~~~  ~~~~~  ~~~~~~~~~~~~~~~  ~~~~~~~~~~  ~~~~~~~~~~~~~~~~~~~~~  ~~~~~~~~  ~~~~~~~~~~~~  ~~~~~~~~~  ~~~~~~~~~~  ~~~~~~~~~~~~~~~~~~  ~~~~~~~~~~~~~~~~  ~~~~~~~~~~~~~~~~~~~~~~  
+
+     02   4:00a   9:00p     39                -           6                      2         3             5          5                              18                                            
+     03   4:00a   9:00p     51                -           6                      2         3             5          5                              10                                        20  
+
+

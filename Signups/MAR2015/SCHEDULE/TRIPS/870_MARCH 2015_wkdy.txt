@@ -1,0 +1,31 @@
+Trips
+~~~~~
+
+SignUp:       MARCH 2015
+Service:      1
+Line:         870
+Exception:    Off
+Printed:      02-16-2015  1:58p
+
+Direction:    From Downtown
+
+Frz  Trip  Pattern  VehType  INT   DBAY2    Bo21    21Ut    Pe41    InPl   T Hil    81Le    StFr  
+~~~  ~~~~  ~~~~~~~  ~~~~~~~  ~~~  ~~~~~~  ~~~~~~  ~~~~~~  ~~~~~~  ~~~~~~  ~~~~~~  ~~~~~~  ~~~~~~  
+
+ NO     0       02             I   7:45p   7:53p   7:58p   8:05p   8:18p   8:32p   8:46p   9:00p  
+ NO     0       01             I   9:05p   9:13p   9:18p   9:25p   9:37p           9:48p  10:03p  
+ NO     0       01             I  10:20p  10:28p  10:33p  10:40p  10:52p          11:03p  11:18p  
+ NO     0       01             I  11:30p  11:38p  11:43p  11:50p  12:02x          12:13x  12:28x  
+
+
+Direction:    To Downtown
+
+Frz  Trip  Pattern  VehType  INT    StFr    81Le   T Hil    InPl    Pe41    Ut21    21Bo   DBAY2  
+~~~  ~~~~  ~~~~~~~  ~~~~~~~  ~~~  ~~~~~~  ~~~~~~  ~~~~~~  ~~~~~~  ~~~~~~  ~~~~~~  ~~~~~~  ~~~~~~  
+
+ NO     0       01             I   8:00p   8:15p           8:26p   8:38p   8:45p   8:50p   8:58p  
+ NO     0       01             I   9:05p   9:20p           9:31p   9:43p   9:50p   9:55p  10:03p  
+ NO     0       02             I  10:10p  10:25p  10:41p  10:50p  11:03p  11:10p  11:15p  11:23p  
+ NO     0       01             I  11:23p  11:38p          11:49p  12:01x  12:08x  12:13x  12:21x  
+
+

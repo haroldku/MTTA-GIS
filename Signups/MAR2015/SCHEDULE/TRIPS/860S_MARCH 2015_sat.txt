@@ -1,0 +1,28 @@
+Trips
+~~~~~
+
+SignUp:       MARCH 2015
+Service:      2
+Line:         860S
+Exception:    Off
+Printed:      02-16-2015  1:55p
+
+Direction:    To Downtown 
+
+Frz  Trip  Pattern  VehType  INT  137/24S  Adm/129    11Me    11Ya    11Ut   DBAY5  
+~~~  ~~~~  ~~~~~~~  ~~~~~~~  ~~~  ~~~~~~~  ~~~~~~~  ~~~~~~  ~~~~~~  ~~~~~~  ~~~~~~  
+
+ NO     0       01             I    8:33p    8:42p   8:51p   8:57p   9:04p   9:13p  
+ NO     0       01             I   10:25p   10:34p  10:43p  10:49p  10:56p  11:05p  
+
+
+Direction:    From Downtown
+
+Frz  Trip  Pattern  VehType  INT   DBAY5   11Uti  11YaSB    11Me  31MeWB  31GEAB  137/24pl  
+~~~  ~~~~  ~~~~~~~  ~~~~~~~  ~~~  ~~~~~~  ~~~~~~  ~~~~~~  ~~~~~~  ~~~~~~  ~~~~~~  ~~~~~~~~  
+
+ NO     0       01             I   7:45p   7:54p   8:01p   8:07p   8:16p   8:22p     8:30p  
+ NO     0       01             I   9:25p   9:34p   9:41p   9:47p   9:56p  10:02p    10:10p  
+ NO     0       01             I  11:25p  11:34p  11:41p  11:47p  11:56p  12:02x    12:10x  
+
+
